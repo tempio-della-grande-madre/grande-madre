@@ -26,13 +26,19 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
+      'resolve': `gatsby-plugin-sass`,
+      'options': {
+        'precision': 8,
+      }
+    },
+    {
       'resolve': 'gatsby-plugin-manifest',
       'options': {
         'name': siteTitle,
         'description': siteTitle,
         'short_name': siteTitle,
-        'background_color': 'green',
-        'theme_color': '#002635',
+        'background_color': '#a8ffa8',
+        'theme_color': '#a8ffa8',
         'orientation': 'portrait',
         'display': 'minimal-ui'
       }

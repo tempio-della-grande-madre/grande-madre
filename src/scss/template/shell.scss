@@ -1,0 +1,45 @@
+html, html * {
+  font-size: $font-size;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+
+  position: relative;
+  min-height: 100vh;
+
+  #sidebar {
+    position: absolute;
+    min-height: 100vh;
+    min-width: 8rem;
+    background-color: $sand;
+    border-right: 0.1rem solid $background;
+    left: 0;
+    top: 0;
+  }
+
+  #main {
+    position: absolute;
+    min-height: calc(100vh - #{$footer-heigth});
+    max-height: calc(100vh - #{$footer-heigth});
+    background-color: $sand;
+    right: 0;
+    left: 8.1rem;
+    margin-bottom: $footer-heigth;
+    overflow: auto;
+  }
+
+  #footer {
+    position: absolute;
+    overflow: auto;
+    bottom: 0;
+    min-width: calc(100% - 8.1rem);
+    left: 8.1rem;
+    max-height: 4 * $footer-heigth;
+    background-color: $background;
+    color: $text;
+  }
+}
