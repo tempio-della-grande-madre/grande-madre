@@ -3,19 +3,17 @@ import Helmet from 'react-helmet';
 
 import '../scss/index.scss';
 import {description} from '../../package.json';
-import SideBar from '../components/sidebar';
 import Header from '../components/header';
+import Main from '../components/main';
 import Footer from '../components/footer';
 
 export default function TemplateWrapper({ children }) {
-  return <span id="root">
+  return <div id="root">
     <Helmet title={description}/>
-    <SideBar/>
-
-    <div id="main">
-      BODY
-    </div>
-
+    <Header/>
+    <Main>
+      {children}
+    </Main>
     <Footer/>
-  </span>;
+  </div>;
 };

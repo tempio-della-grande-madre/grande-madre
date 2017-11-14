@@ -1,0 +1,11 @@
+#header {
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.title {
+      font-size: 4 * $font-size;
+    }
+  }
+}
