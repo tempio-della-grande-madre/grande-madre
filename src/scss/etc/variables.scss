@@ -1,12 +1,15 @@
+$font-color: black;
 $font-size: 1rem;
+
+$header-heigth: 6rem;
 $footer-heigth: ($font-size + .5rem);
 
-$sand: #cfd37b;
-$grass: #338A2E;
-$wall: darken($grass, 20%);
-$water: #2a4c7f;
-$spawn: yellow;
-$exit: red;
+$title-heigth: 4rem;
 
-$background: #20201f;
-$text: antiquewhite;
+$text-color: black;
+$footer-color: white;
+
+$first-color: #47D250;
+$second-color: #6051BE;
+$third-color: #FFDC56;
+$forth-color: #FF5B56;

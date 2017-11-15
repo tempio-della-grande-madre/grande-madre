@@ -1,0 +1,17 @@
+html {
+  background-color: $first-color;
+}
+
+body {
+  font-size: $font-size;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+a, a:hover {
+  color: $font_color;
+  text-decoration: none;
+}

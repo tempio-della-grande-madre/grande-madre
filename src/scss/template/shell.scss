@@ -1,13 +1,3 @@
-$header-size: 6rem;
-
-html, html * {
-  font-size: $font-size;
-}
-
-body {
-  margin: 0;
-}
-
 #root {
 
   position: relative;
@@ -18,15 +8,14 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    height: $header-size
+    height: $header-heigth
   }
 
   #main {
     position: absolute;
-    min-height: calc(100vh - #{$footer-heigth} - #{$header-size});
-    max-height: calc(100vh - #{$footer-heigth} - #{$header-size});
-    background-color: $sand;
-    top: $header-size;
+    min-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
+    max-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
+    top: $header-heigth;
     right: 0;
     left: 0;
     margin-bottom: $footer-heigth;
@@ -41,7 +30,7 @@ body {
     left: 0;
     min-height: $footer-heigth;
     max-height: $footer-heigth;
-    background-color: $background;
-    color: $text;
+    background-color: $second-color;
+    color: $footer-color;
   }
 }

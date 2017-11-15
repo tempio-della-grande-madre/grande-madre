@@ -10,7 +10,7 @@ import Footer from '../components/footer';
 export default function TemplateWrapper({ children }) {
   return <div id="root">
     <Helmet title={description}/>
-    <Header/>
+    <Header headerName={description}/>
     <Main>
       {children}
     </Main>
