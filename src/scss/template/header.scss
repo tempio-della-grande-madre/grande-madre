@@ -1,16 +1,4 @@
 $menu-dimension: ($font-size / 2);
-@font-face {
-	font-family: 'blackchancery';
-	src: url('../assets/fonts/blkchcry-webfont.eot');
-	src: url('../assets/fonts/blkchcry-webfont.eot?#iefix') format('embedded-opentype'),
-			 url('../assets/fonts/blkchcry-webfont.woff2') format('woff2'),
-			 url('../assets/fonts/blkchcry-webfont.woff') format('woff'),
-			 url('../assets/fonts/blkchcry-webfont.ttf') format('truetype'),
-			 url('../assets/fonts/blkchcry-webfont.svg#blackchanceryregular') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
 #header {
 	border-bottom: 1px $footer-color solid;
 
@@ -38,8 +26,8 @@ $menu-dimension: ($font-size / 2);
 	    }
 	  }
 
-
 		.menu {
+			z-index: 1;
 	    display: flex;
     	justify-content: center;
 			padding: 0;
@@ -50,28 +38,28 @@ $menu-dimension: ($font-size / 2);
 				margin: 0 1rem;
 				cursor: pointer;
 
-				span {
-					background-color: $forth-color;
-					padding: $menu-dimension;
-					border-radius: $menu-dimension;
-				}
-
-				&:hover {
-					background-color: yellow;
-					.sub-menu {
-						display: block;
-    				margin: $menu-dimension 0;
-					}
-				}
-
 				.sub-menu {
 					display: none;
+
+					&.show {
+						display: block;
+					}
 					padding: 0;
+					border-radius: $menu-dimension;
 
 					.sub-menu-item {
 						display: inline;
-						margin: 0;
 					}
+				}
+
+				div {
+					color: white;
+					&:hover {
+						background-color: $color-primary-4;
+					}
+					background-color: $color-secondary-1-4;
+					padding: ($menu-dimension / 2);
+					border-radius: ($menu-dimension / 2);
 				}
 	    }
 		}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Cosa facciamo",
+    "path": "/cosa-facciamo",
+    "subMenu": [
+      {
+        "name": "Statuto",
+        "path": "/statuto"
+      }
+    ]
+  },
+  {
+    "name": "Chi siamo",
+    "path": "/chi-siamo"
+  },
+  {
+    "name": "Collaborazioni",
+    "path": "/collaborazioni"
+  },
+  {
+    "name": "Progetto",
+    "path": "/progetto"
+  },
+  {
+    "name": "Ruota dell'anno e delle Dolomiti",
+    "path": "/ruota-dell-anno-e-delle-dolomiti"
+  },
+  {
+    "name": "Fiamma delle dolomiti",
+    "path": "/fiamma-delle-dolomiti"
+  },
+  {
+    "name": "Corsi annuali",
+    "path": "/corsi-annuali"
+  },
+  {
+    "name": "Eventi",
+    "path": "/eventi"
+  },
+  {
+    "name": "Donazioni",
+    "path": "/donazioni"
+  }
+]

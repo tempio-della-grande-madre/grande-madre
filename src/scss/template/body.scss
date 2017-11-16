@@ -1,5 +1,5 @@
 html {
-  background-color: $first-color;
+  background-color: $color-primary-0;
 }
 
 body {
@@ -12,6 +12,6 @@ body {
 }
 
 a, a:hover {
-  color: $font_color;
+  color: inherit;
   text-decoration: none;
 }
