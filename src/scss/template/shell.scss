@@ -11,13 +11,22 @@
     height: $header-heigth
   }
 
+  #navigation {
+    position: absolute;
+    top: $header-heigth;
+    left: 0;
+    right: $navigation-heigth;
+    bottom: 0;
+    margin-bottom: $footer-heigth;
+  }
+
   #main {
     position: absolute;
     min-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
     max-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
     top: $header-heigth;
     right: 0;
-    left: 0;
+    left: calc(100% - #{$navigation-heigth});
     margin-bottom: $footer-heigth;
     overflow: auto;
   }

@@ -1,0 +1,38 @@
+.menu {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+
+  .menu-item {
+    display: inline;
+    margin: 0 1rem;
+    cursor: pointer;
+
+    .sub-menu {
+      position: absolute;
+      display: none;
+
+      &.show {
+        display: block;
+      }
+      padding: 0;
+      border-radius: $menu-dimension;
+
+      .sub-menu-item {
+        display: inline;
+      }
+    }
+
+    div {
+      color: white;
+      &:hover {
+        background-color: $color-primary-4;
+      }
+      background-color: $color-secondary-1-4;
+      padding: ($menu-dimension / 2);
+      border-radius: ($menu-dimension / 2);
+    }
+  }
+}
