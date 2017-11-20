@@ -1,21 +1,11 @@
 [
   {
     "name": "Cosa facciamo",
-    "path": "/cosa-facciamo",
-    "subMenu": [
-      {
-        "name": "Statuto",
-        "path": "/statuto"
-      }
-    ]
+    "path": "/cosa-facciamo"
   },
   {
     "name": "Chi siamo",
     "path": "/chi-siamo"
-  },
-  {
-    "name": "Collaborazioni",
-    "path": "/collaborazioni"
   },
   {
     "name": "Progetto",
@@ -30,12 +20,20 @@
     "path": "/fiamma-delle-dolomiti"
   },
   {
+    "name": "Collaborazioni",
+    "path": "/collaborazioni"
+  },
+  {
     "name": "Corsi annuali",
     "path": "/corsi-annuali"
   },
   {
     "name": "Eventi",
     "path": "/eventi"
+  },
+  {
+    "name": "Statuto",
+    "path": "/statuto"
   },
   {
     "name": "Donazioni",

@@ -6,16 +6,16 @@
   #header {
     position: absolute;
     top: 0;
-    left: 0;
+    left: calc(100% - #{$navigation-width});
     right: 0;
     height: $header-heigth
   }
 
   #navigation {
     position: absolute;
-    top: $header-heigth;
+    top: 0;
     left: 0;
-    right: $navigation-heigth;
+    right: $navigation-width;
     bottom: 0;
     margin-bottom: $footer-heigth;
   }
@@ -26,7 +26,7 @@
     max-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
     top: $header-heigth;
     right: 0;
-    left: calc(100% - #{$navigation-heigth});
+    left: calc(100% - #{$navigation-width});
     margin-bottom: $footer-heigth;
     overflow: auto;
   }
@@ -40,6 +40,5 @@
     min-height: $footer-heigth;
     max-height: $footer-heigth;
     background-color: $color-complement-4;
-    color: $footer-color;
   }
 }

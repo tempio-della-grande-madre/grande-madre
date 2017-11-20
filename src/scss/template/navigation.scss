@@ -1,38 +1,58 @@
-.menu {
-  z-index: 1;
-  display: flex;
-  justify-content: center;
-  padding: 0;
-  margin: 0;
+#navigation {
 
-  .menu-item {
-    display: inline;
-    margin: 0 1rem;
-    cursor: pointer;
+  border-right: 1px $color-secondary-2-4 solid;
+  margin: 0 $font-size/2 0;
+  padding: 0 $font-size/2 0;
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+
+    .logo {
+      display: inline-block;
+      height: ($header-heigth * 2);
+      img {
+        height: ($header-heigth * 2);
+      }
+    }
+}
+
+  .menu {
+    padding: 0;
+
+    li {
+      display: inline;
+      margin: $font-size;
+    }
 
     .sub-menu {
-      position: absolute;
-      display: none;
+      padding: 0 0 0 $footer-heigth;
+      max-height: 0;
+      opacity: 0;
+      transition: max-height .88s ease-out, opacity .66s ease-out;
 
       &.show {
-        display: block;
-      }
-      padding: 0;
-      border-radius: $menu-dimension;
-
-      .sub-menu-item {
-        display: inline;
+        max-height: ($font-size * 10);
+        opacity: 1;
+        transition: max-height .88s ease-in, opacity .66s ease-in;
       }
     }
 
-    div {
+    .menu-item > div, .sub-menu-item > div {
+      font-size: ($font-size * 1.2);
       color: white;
+      background-color: $color-secondary-1-4;
+      border-radius: ($font-size / 4);
+      padding: ($font-size / 4);
+
       &:hover {
         background-color: $color-primary-4;
       }
-      background-color: $color-secondary-1-4;
-      padding: ($menu-dimension / 2);
-      border-radius: ($menu-dimension / 2);
+
+      a {
+        display: block;
+        text-align: center;
+      }
     }
   }
 }

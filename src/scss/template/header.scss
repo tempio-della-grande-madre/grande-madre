@@ -1,26 +1,9 @@
-$menu-dimension: ($font-size / 2);
 #header {
-	border-bottom: 1px $footer-color solid;
+	border-bottom: 1px $color-secondary-2-4 solid;
+	height: $header-heigth;
 
-	.logo {
-		display: inline-block;
-		margin: $menu-dimension;
-		float: left;
-
-		height: calc(#{$header-heigth} - #{$menu-dimension * 2});
-		img {
-			height: calc(#{$header-heigth} - #{$menu-dimension * 2});
-		}
-	}
-
-	div {
-    display: flex;
-    align-items: center;
-		height: calc(#{$header-heigth} - #{$menu-dimension * 2});
-
-		.title {
-      font-family: blackchancery;
-      font-size: $title-heigth;
-    }
-	}
+	.title {
+    font-family: blackchancery;
+    font-size: $title-heigth;
+  }
 }
