@@ -1,6 +1,7 @@
 ---
 path: "/cosa-facciamo"
 title: "Cosa facciamo"
+date: "2018-01-22T22:01:06.037Z"
 ---
 
 *“Siamo noi, oggi,  le antenate e gli antenati. Del mondo che verrà.” (Laura Ghianda)*

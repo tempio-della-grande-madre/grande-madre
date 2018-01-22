@@ -8,9 +8,9 @@ const font = () => {
 
   document.head.appendChild(link)
 
-  const roboto = new FontFaceObserver('blackchancery')
+  const blackchancery = new FontFaceObserver('blackchancery')
 
-  roboto.load().then(() => {
+  blackchancery.load().then(() => {
     document.documentElement.classList.add('blackchancery')
   })
 };
