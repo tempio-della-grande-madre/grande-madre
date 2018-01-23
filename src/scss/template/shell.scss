@@ -3,32 +3,44 @@
   position: relative;
   min-height: 100vh;
 
-  #header {
-    position: absolute;
-    top: 0;
-    left: calc(100% - #{$navigation-width});
-    right: 0;
-    height: $header-heigth
-  }
-
   #navigation {
     position: absolute;
+    overflow: auto;
+    margin-bottom: $footer-heigth;
     top: 0;
     left: 0;
-    right: $navigation-width;
     bottom: 0;
-    margin-bottom: $footer-heigth;
+
+    right: $phone-navigation-width;
+    @media screen and (min-width: $screen-min-width-threshold) {
+
+  		right: $screen-navigation-width;
+  	}
   }
 
   #main {
     position: absolute;
-    min-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
-    max-height: calc(100vh - #{$footer-heigth} - #{$header-heigth});
-    top: $header-heigth;
-    right: 0;
-    left: calc(100% - #{$navigation-width});
     margin-bottom: $footer-heigth;
+    min-height: calc(100vh - #{$footer-heigth});
+    max-height: calc(100vh - #{$footer-heigth});
+    top: 0;
+    right: 0;
     overflow: auto;
+
+    left: $phone-main-width;
+    @media screen and (min-width: $screen-min-width-threshold) {
+
+  		left: $screen-main-width;
+  	}
+
+    .title {
+  		@include padding(0.5rem, 2rem);
+  		@include font-size(7vw, 6rem);
+
+      font-family: blackchancery;
+      margin: 0 auto;
+  		text-align: center;
+    }
   }
 
   #footer {

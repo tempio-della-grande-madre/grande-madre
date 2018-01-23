@@ -1,10 +1,46 @@
 $font-color: black;
-$font-size: 1rem;
 
-$header-heigth: 5rem;
-$navigation-width: 80rem;
-$footer-heigth: ($font-size + .5rem);
+$phone-main-width: 30vw;
+$phone-navigation-width: 70vw;
 
-$title-heigth: 4rem;
+$screen-main-width: 20vw;
+$screen-navigation-width: 80vw;
+
+$footer-heigth: (1rem + .5rem);
 
 $text-color: black;
+
+$screen-min-width-threshold: 1200px;
+
+@mixin width($little, $normal) {
+  width: $little;
+  @media screen and (min-width: $screen-min-width-threshold) {
+
+		width: $normal;
+	}
+}
+
+@mixin font-size($little, $normal) {
+
+  font-size: $little;
+  @media screen and (min-width: $screen-min-width-threshold) {
+
+		font-size: $normal;
+	}
+}
+
+@mixin margin($little, $normal) {
+  margin: $little;
+  @media screen and (min-width: $screen-min-width-threshold) {
+
+		margin: $normal;
+	}
+}
+
+@mixin padding($little, $normal) {
+  padding: $little;
+  @media screen and (min-width: $screen-min-width-threshold) {
+
+		padding: $normal;
+	}
+}
