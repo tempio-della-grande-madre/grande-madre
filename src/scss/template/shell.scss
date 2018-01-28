@@ -21,8 +21,7 @@
   #main {
     position: absolute;
     margin-bottom: $footer-heigth;
-    min-height: calc(100vh - #{$footer-heigth});
-    max-height: calc(100vh - #{$footer-heigth});
+    bottom: 0;
     top: 0;
     right: 0;
     overflow: auto;
@@ -45,12 +44,11 @@
 
   #footer {
     position: absolute;
-    overflow: auto;
     bottom: 0;
     min-width: 100%;
-    left: 0;
+    height: $footer-heigth;
     min-height: $footer-heigth;
     max-height: $footer-heigth;
-    background-color: $color-complement-4;
+    background-color: $color-secondary-2-0;
   }
 }

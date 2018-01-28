@@ -7,8 +7,10 @@ import Link from 'gatsby-link';
 */
 export default function Footer() {
   return <div id="footer">
-    <span>
-      Questo e' un footer molto interessante
-    </span>
+    <div>
+      <span>
+        5x1000: 90017350225
+      </span>
+    </div>
   </div>;
 };
