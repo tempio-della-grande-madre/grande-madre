@@ -6,11 +6,15 @@ $phone-navigation-width: 70vw;
 $screen-main-width: 20vw;
 $screen-navigation-width: 80vw;
 
-$footer-heigth: 1.5rem;
+$big-screen-main-width: 15vw;
+$big-screen-navigation-width: 85vw;
+
+$footer-heigth: 1rem;
 
 $text-color: black;
 
 $screen-min-width-threshold: 1200px;
+$big-screen-min-width-threshold: 2000px;
 
 @mixin width($little, $normal) {
   width: $little;
@@ -42,5 +46,13 @@ $screen-min-width-threshold: 1200px;
   @media screen and (min-width: $screen-min-width-threshold) {
 
 		padding: $normal;
+	}
+}
+
+@mixin padding-left-right($little, $normal) {
+  padding: 0 $little;
+  @media screen and (min-width: $screen-min-width-threshold) {
+
+		padding: 0 $normal;
 	}
 }

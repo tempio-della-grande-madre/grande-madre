@@ -16,6 +16,10 @@
 
   		right: $screen-navigation-width;
   	}
+    @media screen and (min-width: $big-screen-min-width-threshold) {
+
+      right: $big-screen-navigation-width;
+    }
   }
 
   #main {
@@ -31,10 +35,14 @@
 
   		left: $screen-main-width;
   	}
+    @media screen and (min-width: $big-screen-min-width-threshold) {
+
+  		left: $big-screen-main-width;
+  	}
 
     .title {
   		@include padding(0.5rem, 2rem);
-  		@include font-size(7vw, 6rem);
+  		@include font-size(7vw, 5rem);
 
       font-family: blackchancery;
       margin: 0 auto;
@@ -49,6 +57,6 @@
     height: $footer-heigth;
     min-height: $footer-heigth;
     max-height: $footer-heigth;
-    background-color: $color-secondary-2-0;
+    background-color: $fourth-color;
   }
 }

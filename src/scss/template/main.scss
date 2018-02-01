@@ -1,0 +1,10 @@
+#main {
+  a {
+    text-decoration: underline;
+  }
+
+  .post-container {
+    text-align: justify;
+    @include padding-left-right(1vw, 3rem);
+  }
+}
