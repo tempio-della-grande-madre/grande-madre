@@ -14,6 +14,8 @@ L’Associazione intende operare prevalentemente in ambito provinciale, oltrech�
 L’Associazione ha facoltà, qualora se ne ravvisi la necessità, di istituire sedi secondarie, succursali, uffici, sia permanenti sia temporanei, per la migliore organizzazione delle attività sul territorio, nonché sezioni di carattere federativo.
 La durata dell’Associazione è illimitata e la stessa potrà essere sciolta solo con delibera dell’assemblea straordinaria degli associati.
 
+</br>
+
 **Art. 2.** Scopo sociale
 
 L’Associazione non ha scopo di lucro ed intende svolgere attività di utilità sociale, nei confronti degli associati e di terzi, nei settori dell’archeomitologia, della sociologia, della ricerca etica e spirituale, della cultura, dell’arte, della tutela dei diritti individuali e della solidarietà, nel pieno rispetto della libertà e della dignità degli associati.
@@ -27,6 +29,8 @@ Nel rispetto delle finalità indicate nel presente statuto, l’Associazione int
 In relazione a ciò, l’Associazione opera per la condivisione dei valori delle società gilaniche e rinnovate che onorano il femminile e i relativi punti di riferimento nel sacro e nella vita quotidiana. In tale direzione, l’Associazione ha l’obiettivo di un vissuto rituale e spirituale, per una trasformazione degli uomini sui valori del rispetto, della spiritualità, del sacro femminile, realizzando una società rinnovata e un modo di vivere la spiritualità e la ricerca più consapevole e creando un vissuto attraverso il quale le donne e gli uomini possano modificarsi, tramite forme di comunicazione non violenta e mediante la gestione facilitata dei conflitti.
 L’Associazione promuove, inoltre, lo sviluppo di nuovi modelli socio – educativi comunitari basati sulla solidarietà, ispirata e incarnata dai principi della sorellanza e della fratellanza, sulla co-costruzione di un differente rapporto umanità-natura, natura – cultura e Terra/terra, altresì nel rispetto dei meccanismi regolatori di quest’ultima e degli esseri senzienti che la abitano.
 L’Associazione si propone, infine, di attivare e dare corso al progetto “Fiamma della Grande Madre delle Dolomiti”, accesa e co-creata da differenti realtà tramite pubblica cerimonia il 20 settembre 2015. La cura della Fiamma, che rappresenta un simbolo del sacro femminino e della sacralità della Terra/terra (intesa come pianeta e come suolo) è negli scopi dell’Associazione, che si avvarrà a tal fine della prestazione di lavoro volontario da parte dei soci che ne faranno richiesta, denominati “guardiani della Fiamma”.
+
+</br>
 
 **Art. 3.** Attività sociali
 
@@ -45,14 +49,20 @@ Con richiamo e nel rispetto di quanto indicato nell’articolo 2 del presente st
 - collaborare con altri enti, pubblici e privati, anche mediante la stipula di rapporti contributivi e convenzionati.
 Per il perseguimento dei propri scopi, l’Associazione potrà effettuare attività economiche e commerciali, accessorie, strumentali e sussidiarie ai fini istituzionali.
 
+</br>
+
 **Art. 4.** Adesione a enti di promozione, federazioni sportive e organismi nazionali ed internazionali.
 
 L’Associazione accetta tutte le disposizioni statutarie, purché non in contrasto con il presente Statuto, di quelle associazioni ed enti, sia nazionali sia internazionali, ai quali deciderà di aggregarsi o di affiliarsi per migliorare le attività istituzionali proprie e con le quali abbia finalità analoghe o complementari.
+
+</br>
 
 **Art. 5.** Prestazioni degli associati
 
 L’Associazione, per il raggiungimento dei propri scopi sociali, si avvale prevalentemente dell’attività personale, volontaria e gratuita degli associati.
 L’Associazione in caso di necessità può comunque avvalersi delle prestazioni retribuite di lavoratori subordinati, parasubordinati e di lavoratori autonomi, anche ricorrendo ai propri associati, secondo le norme di legge di riferimento.
+
+</br>
 
 **Art. 6.** Soci
 
@@ -64,6 +74,8 @@ Soci ordinari sono coloro che, condividendo le finalità dell’Associazione, op
 Soci onorari sono persone, enti o istituzioni alle quali l’Associazione deve particolare riconoscenza: sono nominati dall’Assemblea Ordinaria, su proposta del Consiglio Direttivo. I soci onorari sono esentati dal pagamento della quota associativa annuale e rappresentano formalmente l’Associazione. Essi possono partecipare alle riunioni assembleari in forma consultiva.
 L’adesione all’Associazione è a tempo indeterminato e non può essere disposta per un periodo temporaneo, fermo restando in ogni caso il diritto al recesso. E’, quindi, espressamente esclusa la partecipazione temporanea alla vita associativa. E’, altresì, prevista l’uniformità del rapporto associativo e delle modalità associative volte a garantire l’effettività del rapporto medesimo.
 
+</br>
+
 **Art. 7.** Modalità di ammissione
 
 Per aderire all’Associazione è necessario presentare domanda scritta al Consiglio Direttivo con l’osservanza delle seguenti modalità: indicare nome e cognome, luogo e data di nascita, professione e residenza; dichiarare di accettare e di attenersi a quanto stabilito dal presente Statuto ed alle deliberazioni degli Organi Sociali.
@@ -73,11 +85,15 @@ La presentazione della domanda di ammissione, il contestuale versamento della qu
 Nel caso in cui la domanda di adesione sia presentata da soggetto non persona fisica, alla domanda deve essere allegata copia dello statuto sociale e atto deliberativo dell’organo interno che conferisce al firmatario della domanda i poteri per richiedere l’adesione all’Associazione.
 La tessera rilasciata al socio contestualmente al versamento della quota sociale ha valore per tutto l’anno associativo; essa è rinnovabile con il solo versamento della quota sociale entro i termini stabiliti dal Consiglio Direttivo, senza presentazione di altra domanda di ammissione.
 
+</br>
+
 **Art. 8.** Diritti e doveri degli associati
 
 Tutti i soci hanno uguale diritto di voto e di partecipazione alla vita associativa, in particolare per quanto riguarda l’approvazione e le modifiche dello Statuto e dei regolamenti, l’elezione degli organi direttivi, l’approvazione del bilancio.
 Tutti i soci hanno diritto di frequentare i locali dell’Associazione e di partecipare a tutte le manifestazioni indette dall’Associazione stessa, fermo restando il puntuale versamento delle quote associative.
 I soci sono tenuti: al pagamento annuale della quota associativa entro il termine fissato dal Consiglio Direttivo, nonché all’osservanza dello statuto, dell’eventuale regolamento e delle delibere degli organi sociali.
+
+</br>
 
 **Art. 9.** Scioglimento del rapporto sociale
 
@@ -97,9 +113,13 @@ Il socio che cessi di appartenere all’Associazione non ha diritto alla restitu
 Il socio escluso può ricorrere contro il provvedimento di esclusione nella prima Assemblea ordinaria utile, presentando ricorso scritto al Consiglio Direttivo, entro trenta giorni dalla comunicazione di esclusione.
 Fino alla data di convocazione dell’Assemblea, ai fini del ricorso, il socio interessato dal provvedimento di esclusione si intende sospeso. Egli può partecipare alle riunioni assembleari senza diritto di voto.
 
+</br>
+
 **Art. 10.** Intrasmissibilità delle quote sociali
 
 Le quote e i contributi associativi sono in trasmissibili, ad eccezioni dei trasferimenti a causa di morte, e non sono rivalutabili.
+
+</br>
 
 **Art. 11.** Finanziamento dell’Associazione
 
@@ -112,30 +132,44 @@ Le spese occorrenti per il funzionamento dell’Associazione sono coperte dalle 
 - proventi delle cessioni di beni e/o prestazioni di servizi in favore degli associati e di terzi, anche attraverso lo svolgimento di attività economiche di natura commerciale, artigianale o agricola, svolte in maniera ausiliaria e sussidiaria e comunque finalizzate al raggiungimento degli obiettivi istituzionali;
 - ogni altra entrata compatibile con le finalità dell’associazionismo di promozione sociale.
 
+</br>
+
 **Art. 12.** Patrimonio sociale
 
 Il patrimonio sociale è costituito dal patrimonio mobiliare e immobiliare di proprietà dell’Associazione, da lasciti e donazioni diverse; dall’eventuale fondo di riserva. Il patrimonio dell’Associazione sotto qualsiasi forma deve essere destinato esclusivamente ai fini e per le attività istituzionali previste dallo Statuto. Il patrimonio sociale è indivisibile e pertanto gli associati non ne possono chiedere la divisione, né pretendere la propria quota.
+
+</br>
 
 **Art. 13.** Esercizio sociale
 
 L’esercizio sociale dell’Associazione coincide con l’anno solare. L’Assemblea può, con delibera motivata approvata dalla maggioranza dei presenti, modificare i termini della scadenza dell’esercizio annuale, adattandoli ai programmi e alle attività sociali. L’anno amministrativo inizia il 1° gennaio e termina il 31 dicembre.
 
+</br>
+
 **Art. 14.** Bilancio
 Entro quattro mesi dalla chiusura dell’esercizio annuale il Consiglio Direttivo deve presentare all’Assemblea dei soci il bilancio, sotto forma di rendiconto economico e finanziario, dell’esercizio medesimo. Il rendiconto deve essere depositato presso la sede dell’Associazione almeno dieci giorni prima della data fissata per l’Assemblea.
 Il rendiconto deve indicare separatamente i dati dell’eventuale attività commerciale attuata accanto all’attività istituzionale, altresì attraverso una separata relazione di accompagnamento.
+
+</br>
 
 **Art. 15.** Utili e residui attivi
 
 Gli eventuali utili e residui attivi del bilancio devono essere destinati come segue: a disposizione per iniziative di carattere sociale, assistenziale, culturale, sportivo o ricreativo, in sintonia con gli scopi dell’Associazione; o per realizzare nuovi impianti o ammodernamenti delle attrezzature e struttura sociali esistenti; al fondo di riserva.
 
+</br>
+
 **Art. 16.** Divieto di distribuzione degli utili
 
 È fatto divieto di distribuire tra i soci anche in modo indiretto proventi e utili, residui attivi e avanzi di gestione durante la vita dell’Associazione, salvo che la destinazione o la distribuzione non siano imposte della legge.
+
+</br>
 
 **Art. 17.** Organi sociali
 
 Gli organi sociali dell’associazione sono costituiti da: l’Assemblea dei soci; il Consiglio Direttivo; il Presidente.
 Tutte le cariche sociali sono elettive e gratuite, salvo il diritto al rimborso delle spese vive effettivamente sostenute in ragione dell’incarico ricoperto. E’, quindi, garantita la libera eleggibilità degli organi sociali. L’elezione degli organi dell’Associazione non può essere in alcun modo vincolata o limitata ed è informata a criteri di massima libertà di partecipazione all’elettorato attivo e passivo.
+
+</br>
 
 **Art. 18.** L’Assemblea
 
@@ -161,11 +195,15 @@ Per esercitare il proprio diritto all’elettorato attivo e passivo il socio dev
 Di ogni Assemblea è redatto un verbale a cura del Segretario, a ciò preposto dal Presidente o di chi ne fa le veci, scegliendolo tra i soci presenti.
 Il verbale, firmato dal Presidente dell’Assemblea e dal Segretario verbalizzante, è conservato agli atti dell’Associazione e ogni socio può prenderne visione.
 
+</br>
+
 **Art. 19.** Assemblea Straordinaria
 
 La convocazione dell’Assemblea straordinaria si esegue con le modalità previste dall’art. 19. L’Assemblea straordinaria delibera sulle modifiche statutarie e sulla devoluzione dell’eventuale patrimonio residuo.
 Per le modifiche statutarie l’Assemblea straordinaria delibera in presenza di almeno tre quarti degli associati e con il voto favorevole della maggioranza dei presenti. In seconda convocazione, è ammessa la presenza di almeno la metà dei soci con il voto favorevole della maggioranza dei presenti.
 Per lo scioglimento dell’Associazione e devoluzione del patrimonio, l’Assemblea straordinaria delibera con il voto favorevole di almeno tre quarti degli associati.
+
+</br>
 
 **Art. 20.** Il Consiglio Direttivo: modalità di elezione, composizione e funzionamento
 
@@ -174,6 +212,8 @@ Il Consiglio Direttivo, l’organo esecutivo dell’Associazione, è eletto dall
 Il Consiglio Direttivo è convocato dal Presidente mediante avviso scritto da far pervenire a ciascun consigliere con almeno sette giorni di anticipo sulla data della riunione. Esso deve essere riunito almeno ogni sei mesi e ogni qualvolta il Presidente lo ritenga opportuno. Il Presidente è tenuto a convocare il Consiglio su richiesta scritta della maggioranza dei suoi membri, entro i trenta giorni successivi. Qualsiasi convocazione del Consiglio dovrà comunque contenere l’elencazione delle materie da trattare.
 Le riunioni del Consiglio sono valide purché sia presente la maggioranza dei suoi componenti. Sono presiedute dal Presidente e le deliberazioni sono prese a maggioranza dei votanti. In caso di parità di voti la deliberazione si considera non approvata. I Consiglieri sono tenuti sul loro onore a mantenere segrete le discussioni e le opinioni espresse all’interno del Consiglio. Di tutte le riunioni del Consiglio Direttivo deve essere tenuto verbale, sottoscritto dal Segretario e dal Presidente e contenente la sintesi degli argomenti trattati e le deliberazioni assunte. Il verbale di ogni riunione consiliare viene inviato, una volta redatto, ai tutti i consiglieri, ai fini di definitiva approvazione. Esso viene conservato nel Libro verbali del Consiglio Direttivo.
 In caso di dimissioni, decadenza, non accettazione della carica, impedimento definitivo o altro motivo di cessazione dalla carica di consigliere in numero tale da non dare luogo a decadenza dell’intero consiglio direttivo e cioè in numero inferiore alla metà più uno dei consiglieri, si procede all’integrazione del Consiglio Direttivo utilizzando l’elenco dei non eletti: la sostituzione va ratificata dalla successiva Assemblea ordinaria e dura sino alla scadenza del mandato dei consiglieri surrogati. Nel caso non sia possibile procedere al sistema d’integrazione del Consiglio Direttivo come sopra, si procederà a nuove elezioni alla prima assemblea utile. Qualora l’assemblea utile sia stata celebrata di recente e sia compromessa il funzionamento del Consiglio Direttivo, dovrà essere indetta entro sessanta (60) giorni e tenuta nei successivi
+
+</br>
 
 **Art. 21.** Il Consiglio Direttivo: compiti e funzioni
 
@@ -188,25 +228,37 @@ In particolare, e senza che la seguente elencazione debba intendersi limitativa,
 – decidere in merito all’accoglimento delle domande di ammissione all’Associazione da parte degli aspiranti soci e deliberare sull’eventuale esclusione degli associati;
 – compiere tutti gli atti di ordinaria amministrazione.
 
+</br>
+
 **Art. 22.** Obblighi dei membri del Consiglio Direttivo
 
 Tutte le cariche sociali e gli incarichi istituzionali conferiti a membri del Consiglio Direttivo sono gratuiti, salvo il solo rimborso delle spese effettivamente sostenute e rendicontate relativamente allo svolgimento degli incarichi e delle attività per conto dell’Associazione, entro il limite massimo stabilito dal Consiglio Direttivo medesimo. Possono far parte del Consiglio Direttivo i soli soci regolarmente tesserati, in regola con pagamento della quota sociale, che non abbiano riportato condanne passate in giudicato per delitti non colposi.
+
+</br>
 
 **Art. 23.** Il Presidente
 
 Il Presidente, eletto dall’Assemblea dei soci, dura in carica quattro anni ed è rieleggibile. Il Presidente ha la legale rappresentanza dell’Associazione di fronte a terzi e in giudizio. Presiede e convoca l’Assemblea ed il Consiglio Direttivo, firmandone i relativi verbali, ed ha la responsabilità di far eseguire le deliberazioni adottate dagli organi predetti, assicurando lo svolgimento organico ed unitario dell’attività dell’Associazione. Il Presidente sovrintende inoltre la gestione amministrativa ed economica dell’Associazione, di cui firma gli atti. In caso di assenza o impedimento le sue funzioni spettano al Vice Presidente ed in assenza di quest’ultimo al Tesoriere. Il Presidente, in caso di urgenza, assume i poteri del Consiglio Direttivo e adotta i provvedimenti necessari, convocando contestualmente il Consiglio per la loro approvazione: i provvedimenti urgenti del Presidente vengono esaminati obbligatoriamente dal Consiglio Direttivo alla prima riunione utile.
 
+</br>
+
 **Art. 24.** Controversie tra gli associati
 
 Qualunque controversia dovesse insorgere tra gli associati con riferimento alla validità, efficacia, interpretazione ed esecuzione di questo Statuto, che non rientri nella specifica competenza degli Organi disciplinari, verrà rimessa a un Collegio Arbitrale costituito secondo le norme di legge e, in caso di disaccordo, dal Tribunale di Trento.
+
+</br>
 
 **Art. 25.** Scioglimento dell’Associazione
 
 In caso di scioglimento dell’Associazione, l’Assemblea provvederà alla nomina di uno o più liquidatori e determinerà le modalità di liquidazione del patrimonio sociale e la sua devoluzione.
 
+</br>
+
 **Art. 26.** Devoluzione del patrimonio residuo
 
 In caso di scioglimento dell’Associazione, l’eventuale patrimonio residuo dovrà essere devoluto ad altra Associazione di promozione sociale e comunque ai fini di utilità sociale o di pubblica utilità.
+
+</br>
 
 **Art. 27.** Rinvio
 
