@@ -122,7 +122,7 @@ Le quote e i contributi associativi sono in trasmissibili, ad eccezioni dei tras
 
 <br/>
 
-**Art. 11.** Finanziamento dell'Associazione
+**Art. 11.** Finanziamento dell’Associazione
 
 Le spese occorrenti per il funzionamento dell'Associazione sono coperte dalle seguenti entrate:
 - quote associative;
@@ -172,7 +172,7 @@ Tutte le cariche sociali sono elettive e gratuite, salvo il diritto al rimborso 
 
 <br/>
 
-**Art. 18.** L'Assemblea
+**Art. 18.** L’Assemblea
 
 L'Assemblea è l'organo sovrano dell'Associazione.
 L'Assemblea è convocata con annuncio scritto inviato a ogni socio, anche in posta elettronica, e tramite affissione in bacheca, almeno dieci giorni prima della data convenuta. L'annuncio deve contenere l'ordine del giorno, il luogo, la data e l'orario della prima e della seconda convocazione. In difetto di convocazione formale o di mancato rispetto dei termini di preavviso sono ugualmente valide le adunanze cui partecipano di persona o per delega tutti i soci. L'Assemblea è convocata dal Presidente almeno una volta l'anno per l'approvazione del bilancio consuntivo, oppure su richiesta della maggioranza dei consiglieri, o per domanda motivata di almeno un decimo degli associati aventi diritto al voto. In tali casi, il Presidente deve provvedere alla convocazione entro i venti giorni successivi. Nella richiesta di convocazione, i richiedenti dovranno esprimere per iscritto le materie da trattare e le eventuali proposte che essi intendono presentare.

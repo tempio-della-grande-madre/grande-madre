@@ -80,6 +80,4 @@ Abbiamo in progetto di:
 
 L'Associazione favorisce l'integrazione e la collaborazione con altre associazioni con scopi similari nella pratica e nella diffusione della cultura matricentrica e nella diffusione della conoscenza del Sacro Femminino.
 
-Visiona lo [**statuto**](/statuto) completo dell'associazione.
-
-<br/>
+Visiona lo [statuto](/statuto) completo dell’associazione.
