@@ -20,20 +20,22 @@ Da allora sono passati 10 anni e moltissime cose sono cambiate. Molto si è moss
 Ciascuna di noi, lavorando nella sua realtà locale.
 
 Il sogno più ambizioso della nostra associazione è pervenire, nel tempo, alla possibilità di aprire una sede stabile da adibire a moderno "Tempio della Grande Madre", sul modello del Glastonbury Goddess Temple **(link alla pagina "con chi collaboriamo")** e del [Goddess Temple di Ashland](http://www.goddesstempleashland.com/) (USA), dove custodire la Fiamma della Grande Madre delle Dolomiti **(link alla pagina della fiamma)**, riaccesa cerimonialmente il 20 settembre 2015.
-A questo scopo raccoglieremo il denaro derivante dai corsi, per-corsi e nostre proposte, dalle donazioni, dal crowdfunding (se vuoi contribuire, questa è la nostra [pagina](https://buonacausa.org/cause/tempiodellagrandemadre)), dalla vendita del nostro artigianato (link alla pagina Il nostro Mercatino) , ecc. Tutto quello che non verrà nel corso dell"anno re-investito in altri progetti secondo i fini dell"organizzazione, sarà messo da parte in un fondo per realizzare il nostro sogno.
+A questo scopo raccoglieremo il denaro derivante dai corsi, per-corsi e nostre proposte, dalle donazioni e dal crowdfunding (se vuoi contribuire, questa è la nostra [pagina](https://buonacausa.org/cause/tempiodellagrandemadre)). Tutto quello che non verrà nel corso dell'anno re-investito in altri progetti secondo i fini dell"organizzazione, sarà messo da parte in un fondo per realizzare il nostro sogno.
 
-Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donazioni, ti ringraziamo dal profondo del nostro cuore! (pulsante "dona")
+Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donazioni, ti ringraziamo dal profondo del nostro cuore! **(pulsante "dona")**
 
-Intanto, ci muoveremo per le provincie di Trento, Bolzano, Belluno e ovunque altro ci chiamino con il progetto "Tempio Temporaneo e Itinerante": allestiremo come un tempio spazi che prenderemo brevemente in affitto (o meglio ancora il cui uso ci sarà donato per il tempo di un weekend!). Lo connetteremo energeticamente al tempio di Glastonbury, che ci sostiene in questo progetto e lo metteremo a disposizione delle persone che vogliono farne esperienza. Il tempo sarà suddiviso tra momenti strutturati con proposte di laboratori, workshop, attività e momenti di apertura dove stare raccolti, meditare, riposare, scrivere, pregare, sognare, divinare, ecc. in uno spazio che rappresenta il caldo grembo della Grande Madre.
+Nel frattempo ci muoveremo per le provincie di Trento, Bolzano, Belluno e ovunque ci chiamino con il progetto "Tempio Temporaneo e Itinerante", allestendo come Tempio gli spazi che prenderemo brevemente in affitto per l'occasione (o meglio ancora, con un po' di fortuna, il cui uso ci sarà donato per il tempo necessario alla nostra iniziativa). Connetteremo energeticamente il nostro tempio a quello di Glastonbury, che ci sostiene in questo progetto, e lo metteremo a disposizione delle persone che vogliono farne esperienza. Il tempo sarà suddiviso tra momenti strutturati con proposte di laboratori, workshop, attività e momenti di apertura dove stare raccolti, meditare, riposare, scrivere, pregare, sognare, divinare, ecc. in uno spazio che rappresenta il caldo grembo della Grande Madre.
 
-E se invece hai una vecchia sala, grande cantina, grande stanza, ex magazzino o qualsiasi locale inutilizzato dotato di minimi standard igienici (finestra e bagno), ti piacerebbe dargli un senso e "prestarcelo" (comodato d"uso o affitto simbolico): lo possiamo trasformare in "Tempio della Grande Madre", sede della nostra associazione, possibilmente non troppo lontano dalla città/paesi limitrofi. Anche a tempo determinato!
+E se invece hai una vecchia sala, grande cantina, grande stanza, ex magazzino o qualsiasi locale inutilizzato dotato di minimi standard igienici (finestra e bagno), ti piacerebbe dargli un senso e "prestarcelo" (comodato d'uso o affitto simbolico): lo possiamo trasformare in "Tempio della Grande Madre", sede della nostra associazione, possibilmente non troppo lontano dalla città/paesi limitrofi. Anche a tempo determinato!
 Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro".
 Contattaci!
 
-Per restare aggiornate/i (iscrizione newsletter)
-Pagina FB "Dea nelle Dolomiti – I volti della Grande Madre" (link www.facebook.com/deatrentino)
+<br/>
 
-Per saperne di più:
-Leggi l"articolo "[Il sogno e la visione del Tempio della Grande Madre di Trento](http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html)"
+Per restare aggiornate/i **(iscrizione newsletter)**
 
-Leggi l"articolo "[Tempio coperto, tempio scoperto. Come è fuori, così è dentro. Tutto è sacro.](http://lauraghianda.blogspot.it/search?q=tempio+coperto)"
+Pagina Facebook ["Dea nelle Dolomiti – I volti della Grande Madre"](https://www.facebook.com/deatrentino)
+
+Per saperne di più:  
+Articolo "[Il sogno e la visione del Tempio della Grande Madre di Trento](http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html)"  
+Articolo "[Tempio coperto, tempio scoperto. Come è fuori, così è dentro. Tutto è sacro.](http://lauraghianda.blogspot.it/search?q=tempio+coperto)"
