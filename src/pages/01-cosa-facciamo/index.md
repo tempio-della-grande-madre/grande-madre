@@ -4,13 +4,13 @@ title: "Cosa facciamo"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
-*“Siamo noi, oggi,  le antenate e gli antenati. Del mondo che verrà.” (Laura Ghianda)*
+*"Siamo noi, oggi,  le antenate e gli antenati. Del mondo che verrà." (Laura Ghianda)*
 
-L’Associazione di Promozione Sociale  “Tempio della Grande Madre” è una realtà a sfondo culturale, sociale e spirituale.
+L’Associazione di Promozione Sociale  "Tempio della Grande Madre" è una realtà a sfondo culturale, sociale e spirituale.
 
 La nostra ricerca è iniziata quando ci siamo poste domande come queste:
 - è davvero sempre così che il mondo è andato?
-- la violenza di genere è da considerarsi naturale, per quanto spiacevole, all’interno della società?
+- la violenza di genere è da considerarsi naturale, per quanto spiacevole, all'interno della società?
 - è naturale anche il conflitto tra i generi?
 - basare le relazioni umane su competizione e, di nuovo, conflitto è l’unico modo possibile? Sarà questo il nostro destino?
 - la tendenza alla conquista, allo sfruttamento indiscriminato, all’egoismo, all’inquinamento, al menefreghismo... sono tutte qualità insite nel genere umano?
@@ -20,7 +20,7 @@ La nostra ricerca è iniziata quando ci siamo poste domande come queste:
 - è la natura che vuole le donne relegate in ruoli di “serie B” tanto nell’agire cultura che nella religiosità?
 
 Certe che siamo tutti/e responsabili di una settemiliardesima fetta di mondo e con il desiderio di agire la nostra parte per migliorarlo, abbiamo iniziato a guardarci attorno: abbiamo incontrato tesi che ci parlano delle radici di un'*antica Europa* in cui i valori fondanti nelle relazioni, nel far cultura e quindi nella spiritualità non erano dappertutto quelli di dominio di un genere sull’altro, non erano dappertutto quelli che si fondano sulla guerra e sui conflitti, non erano dappertutto quelli che credono che la violenza sia *umana necessità e umano destino*.  
-E laddove le teorie sul passato cosiddetto “preistorico” non piacessero, perché riferite a un periodo “troppo lontano” per essere analizzato con criteri appartenenti alla ricerca storica, allora rispondiamo con gli **attuali**, tutt’ora esistenti in ogni continente, modelli di culture dove al centro vengono messi valori come la partnership, come la cura che è prerogativa di ogni membro maschio o femmina; culture dove i generi non sono in conflitto, persino dove la violenza di genere non esiste e le decisioni sono prese da tutti i membri adulti - maschi e femmine, giovani e anziani - attraverso il metodo del consenso… “Culture Indigene di Pace”.  
+E laddove le teorie sul passato cosiddetto “preistorico" non piacessero, perché riferite a un periodo “troppo lontano” per essere analizzato con criteri appartenenti alla ricerca storica, allora rispondiamo con gli **attuali**, tutt’ora esistenti in ogni continente, modelli di culture dove al centro vengono messi valori come la partnership, come la cura che è prerogativa di ogni membro maschio o femmina; culture dove i generi non sono in conflitto, persino dove la violenza di genere non esiste e le decisioni sono prese da tutti i membri adulti - maschi e femmine, giovani e anziani - attraverso il metodo del consenso… “Culture Indigene di Pace”.  
 Queste stesse culture si autodefiniscono *matriarcati*, una parola che non ha niente a che vedere con il contrario di *patriarcato*, non ha niente a che fare con il vecchio concetto di matriarcato reso famoso da Bachofen e dall’antropologia classica. *Arkè* sta per “all’origine”: *all’origine le madri*, non certo *dominio delle madri*.  
 Abbiamo visto che se abbiamo il coraggio di levare per un po’ le spesse lenti occidentali che indossiamo, ciò che ci viene spacciato per *necessario* e *naturale* a volte è solamente una “scelta culturale”.  
 Così è anche nella spiritualità.
