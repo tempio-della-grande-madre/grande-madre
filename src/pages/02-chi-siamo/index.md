@@ -19,5 +19,37 @@ Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino
 **Vicepresidente**  
 Nicoletta Cannaò
 
-Sono Nicoletta, una giovane donna di 31 anni. Ho intrapreso il cammino nelle tradizioni di Dea solo negli ultimi anni dopo essermi accorta che già la mia strada mi portava verso Essa, nonostante la mia parte conscia cercasse di legarmi ai vecchi schemi duali, da cui ancora non posso dirmi del tutto libera. Ho iniziato con la conoscenza della Wicca prevalentemente di tradizione celtica, benchè con grandi influenze norrene, infatti continuavo a trovar legami molto profondi tra i due pantheon che mi spinsero a cercar una loro matrice comune, fu così che mi interessai anche di sciamanesimo ricercando anche fonti antropologiche e archeologiche. Ora sto iniziando a capire che tutto è collegato ad un passato ancora più antico, che risale all'origine dell'umanità e alla venerazione di Dea Madre Universale, colei che racchiude in sè ogni cosa e ogni archetipo per quanto possano sembrarci lontani l'uno dagli altri. 
-Decisamente illuminanti son stati per me testi quali "Il linguaggio della Dea" di M. Gimbutas,  "Il risveglio della Dea" di V. Noble, "Il fuoco nella testa" di T. Cowan, "Il calice e la spada" di R. Eisler e "Inner Mysteries" di G. Bone e J. Farrar."
+
+
+<br/>
+
+**Segretaria con funzioni di tesoriera**  
+Sara Shar Zambon
+
+Laureata in archeologia, appassionata di lettura e scrittura. Da sempre interessata alla dimensione religiosa e spirituale, soprattutto per quanto riguarda mitologia classica e culture antiche, ho iniziato il mio percorso alla scoperta della Dea nell'ottobre 2014, concludendo la prima spirale a settembre 2015 con la dedicazione come Figlia della Grande Madre. Al momento sto proseguendo il mio cammino di conoscenza e ri-scoperta interiore assieme a un gruppo di ragazze che sono diventate come vere e proprie sorelle, tra cui alcune di quelle con cui mi sono dedicata, tentando di conciliare quella che ormai è diventata una vera e propria esigenza emotiva con i doveri e i ritmi frenetici imposti dalla vita di tutti i giorni, primo fra tutti il fatto di essere madre di una vulcanica bambina nata a inizio 2016.
+
+<br/>
+
+**Consigliera**  
+Francesca
+
+Figlia della Terra, donna in cammino e in crescita. Legata da un profondo amore per la sua terra di appartenenza e di origine e dal forte bisogno di connessione con la natura.
+Appassionata di archeologia e di tutto ciò che ispira il suo cammino spirituale, soprattutto a livello locale.
+Dedicata come Figlia della Grande Madre e come Guardiana della Fiamma della Grande Madre delle Dolomiti.
+
+<br/>
+
+**Consigliera**  
+Silvia Fassan
+
+Sono Silvia Fassan, Ennona dopo la mia dedicazione come figlia della Grande Madre. Alla Dea dedico la mia passione che è la danza che pratico come strumento di risveglio della consapevolezza femminile. Ho studiato fin da ragazza la danza nei vari stili dal classico al moderno, dall'africano all'indiano. Dal 2003 la mia passione è diventata la danza orientale tradizionale egiziana, Hilal dance, tribal, gypsy e creativa che continuo a praticare. Ho intrapreso nel 2015 lo studio delle artiterapie conseguendo un master annuale e mi accingo a completare il diploma in danzamovimentoterapia.
+
+<br/>
+
+**Consigliere**  
+Mattia Rossi
+
+Nato nel 1980 a Modena e padre di una meravigliosa bimba. Laureato in Scienze della cultura, master in "Servizi per gli immigrati", e in Scienze dell'educazione presso l'Università degli Studi di Verona. Sono appassionato dell'arte, in particolare del cinema e della filosofia, della storia del mondo antico e dell'importanza del coinvolgimento giovanile e intergenerazionale nei progetti di cambiamento della società.
+Nella prima parte della mia vita ho cercato di seguire il percorso di mio papà ingegnere, più razionale e scientifico, ma mi sono accorto strada facendo che io non sono fatto così. L'ho scoperto dopo molte difficoltà perché in qualche modo sentivo che quella non era la mia strada: decisi a vent'anni di cercare di essere me stesso attraverso la scrittura e la psicologia. Mi sono rivolto verso gli studi umanistici, antropologici e di genere, in qualche modo il ramo più materno della famiglia da cui provengo (mia mamma è stata educatrice e ha lavorato presso una cooperativa di braccianti per diversi anni, ora è un'artista che dipinge, scrive poesie e cerca di crescere attraverso la ricerca artistica). Proprio nei periodi di maggiore crisi ho trovato più volte sul mio sentiero l'interesse per la religione antica e il divino femminile. In particolare quando fui conscio di voler imparare a riconoscere meglio le mie emozioni e modellai in maniera del tutto incosciente una statuetta di donna incinta.  
+Strada facendo mi sono accorto di voler essere in qualche modo diverso anche da mia mamma, e da qualche anno, più consapevole di questi modelli di riferimento e degli automatismi e limiti che mi caratterizzano e con cui faccio i conti ogni giorno, sono ripartito conscio del bisogno di apprendere attraverso un metodo partecipato e non violento.
+Questa è la sintesi delle mie esperienze di  vita e di lavoro fra alti e bassi: non si è mai abbastanza adeguati per le aspettative di colleghi, parenti e contesti di lavoro poco accoglienti fondati sulla competizione; il nostro mondo è fondato sulla violenza, in particolare violenza nella comunicazione e nelle relazioni interpersonali, nella pratica educativa dovuta a uno stile di vita frenetico che non ci appartiene pienamente. Ho deciso dunque una volta conclusa l'università di dedicarmi alla conoscenza della permacultura e al lavoro con la terra, a un progetto di "Slow Cinema" presso il Cineteatro di Borgo dove lavoro come proiezionista, alla conoscenza di pratiche di vita non violente e di differenti modi di esprimere la mascolinità.  
