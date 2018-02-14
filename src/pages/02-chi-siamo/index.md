@@ -9,7 +9,7 @@ Laura Ghianda
 
 Co-Fondatrice del Cerchio Italiano di Avalon (di ispirazione al Glastonbury Goddess Temple, in Inghilterra), attualmente studia con Katinka Soetens in un percorso biennale riguardante il corpo e la sessualità sacra.  
 Dal 2006 al 2012 ha studiato presso il Glastonbury Goddess Temple dedicandosi come Sacerdotessa della Dea e di Avalon.  
-Artista poliedrica, educatrice professionale e libera ricercatrice sul Sacro Femminino e i suoi archetipi, facilita i cerchi di apprendimento della "Ruota dell'Anno" e de "Il cammino della moderna sacerdotessa della Grande Madre", ispirati alla tradizione di Avalon/Glastonbury ma adattati al contesto territoriale.  
+Artista poliedrica, educatrice professionale e libera ricercatrice sul Sacro Femminino e i suoi archetipi, facilita i cerchi di apprendimento della "Ruota dell'Anno" e de "Il cammino della moderna sacerdotessa della Grande Madre", ispirati alla tradizione di Avalon/Glastonbury ma adattati al contesto territoriale, inoltre si occupa di spiritualità legata alla montagna.  
 È promotrice del progetto "Fiamma della Grande Madre delle Dolomiti".  
 Vive e lavora in provincia di Trento come educatrice.  
 Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino, per accedere clicca [qui](http://lauraghianda.blogspot.it/).
@@ -33,8 +33,8 @@ Laureata in archeologia, appassionata di lettura e scrittura. Da sempre interess
 **Consigliera**  
 Francesca
 
-Figlia della Terra, donna in cammino e in crescita. Legata da un profondo amore per la sua terra di appartenenza e di origine e dal forte bisogno di connessione con la natura.
-Appassionata di archeologia e di tutto ciò che ispira il suo cammino spirituale, soprattutto a livello locale.
+Figlia della Terra, donna in cammino e in crescita. Legata da un profondo amore per la sua terra di appartenenza e di origine e dal forte bisogno di connessione con la natura.  
+Appassionata di archeologia e di tutto ciò che ispira il suo cammino spirituale, soprattutto a livello locale.  
 Dedicata come Figlia della Grande Madre e come Guardiana della Fiamma della Grande Madre delle Dolomiti.
 
 <br/>
@@ -49,7 +49,7 @@ Sono Silvia Fassan, Ennona dopo la mia dedicazione come figlia della Grande Mad
 **Consigliere**  
 Mattia Rossi
 
-Nato nel 1980 a Modena e padre di una meravigliosa bimba. Laureato in Scienze della cultura, master in "Servizi per gli immigrati", e in Scienze dell'educazione presso l'Università degli Studi di Verona. Sono appassionato dell'arte, in particolare del cinema e della filosofia, della storia del mondo antico e dell'importanza del coinvolgimento giovanile e intergenerazionale nei progetti di cambiamento della società.
+Nato nel 1980 a Modena e padre di una meravigliosa bimba. Laureato in Scienze della cultura, master in "Servizi per gli immigrati", e in Scienze dell'educazione presso l'Università degli Studi di Verona. Sono appassionato dell'arte, in particolare del cinema e della filosofia, della storia del mondo antico e dell'importanza del coinvolgimento giovanile e intergenerazionale nei progetti di cambiamento della società.  
 Nella prima parte della mia vita ho cercato di seguire il percorso di mio papà ingegnere, più razionale e scientifico, ma mi sono accorto strada facendo che io non sono fatto così. L'ho scoperto dopo molte difficoltà perché in qualche modo sentivo che quella non era la mia strada: decisi a vent'anni di cercare di essere me stesso attraverso la scrittura e la psicologia. Mi sono rivolto verso gli studi umanistici, antropologici e di genere, in qualche modo il ramo più materno della famiglia da cui provengo (mia mamma è stata educatrice e ha lavorato presso una cooperativa di braccianti per diversi anni, ora è un'artista che dipinge, scrive poesie e cerca di crescere attraverso la ricerca artistica). Proprio nei periodi di maggiore crisi ho trovato più volte sul mio sentiero l'interesse per la religione antica e il divino femminile. In particolare quando fui conscio di voler imparare a riconoscere meglio le mie emozioni e modellai in maniera del tutto incosciente una statuetta di donna incinta.  
-Strada facendo mi sono accorto di voler essere in qualche modo diverso anche da mia mamma, e da qualche anno, più consapevole di questi modelli di riferimento e degli automatismi e limiti che mi caratterizzano e con cui faccio i conti ogni giorno, sono ripartito conscio del bisogno di apprendere attraverso un metodo partecipato e non violento.
+Strada facendo mi sono accorto di voler essere in qualche modo diverso anche da mia mamma, e da qualche anno, più consapevole di questi modelli di riferimento e degli automatismi e limiti che mi caratterizzano e con cui faccio i conti ogni giorno, sono ripartito conscio del bisogno di apprendere attraverso un metodo partecipato e non violento.  
 Questa è la sintesi delle mie esperienze di  vita e di lavoro fra alti e bassi: non si è mai abbastanza adeguati per le aspettative di colleghi, parenti e contesti di lavoro poco accoglienti fondati sulla competizione; il nostro mondo è fondato sulla violenza, in particolare violenza nella comunicazione e nelle relazioni interpersonali, nella pratica educativa dovuta a uno stile di vita frenetico che non ci appartiene pienamente. Ho deciso dunque una volta conclusa l'università di dedicarmi alla conoscenza della permacultura e al lavoro con la terra, a un progetto di "Slow Cinema" presso il Cineteatro di Borgo dove lavoro come proiezionista, alla conoscenza di pratiche di vita non violente e di differenti modi di esprimere la mascolinità.  
