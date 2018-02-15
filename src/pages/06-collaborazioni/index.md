@@ -9,13 +9,13 @@ date: "2018-01-22T22:01:06.037Z"
 ***The Glastonbury Goddess Temple***  
 È il primo Tempio dedicato a una divinità indigena a essere aperto in Europa e ufficialmente riconosciuto da un governo occidentale da circa 2000 anni a questa parte. Dal 2013 i matrimoni in esso celebrati hanno valore legale nel Regno Unito.  
 Il tempio offre una scuola ufficiale di formazione alla spiritualità della Dea con possibilità di dedicarsi come Sue sacerdotesse/sacerdoti. È organizzata secondo principi matristici e di partnership: non esiste una struttura piramidale, non esistono "somme sacerdotesse" o "capi", non ci sono dogmi a cui obbedire, le iniziazioni e dedicazioni non sono "investite dall'alto". L'organizzazione del tempio è circolare e le decisioni sono prese con il metodo del consenso.  
-(http://www.goddesstemple.co.uk)  
-(http://www.goddesstempleteachings.co.uk)
+http://www.goddesstemple.co.uk  
+http://www.goddesstempleteachings.co.uk
 
-Kathy Jones ((http://www.kathyjones.co.uk/))  
+Kathy Jones (http://www.kathyjones.co.uk/)  
 Erin Mc Cauliff  
-Katinka Soetens e la sessualità sacra ((http://www.herpathoflove.com))  
-Marion Brigantia van Eupen ((http://www.priestessingforyou.com))
+Katinka Soetens e la sessualità sacra (http://www.herpathoflove.com)  
+Marion Brigantia van Eupen (http://www.priestessingforyou.com)
 
 <br/>
 
@@ -42,7 +42,7 @@ Maggiori informazioni [qui](http://www.goddesstemplepriestesses.com/)
 ***Francesca Rosati Freeman***  
 Nata a Trapani e laureata a Palermo in lingue straniere moderne. Vive da trent'anni fra la Francia e la Svizzera dove ha insegnato francese agli italiani per circa vent'anni. Per circa dieci anni ha lavorato a Ginevra per l'*Antiracism Information Service*, contro la discriminazione razziale, e ha partecipato attivamente alla Conferenza Internazionale contro la Discriminazione Razziale (WCAR) nel 2001 a Durban.  
 La lotta per i diritti delle donne è stata sempre al centro delle sue molteplici attività. Per le donne straniere in Svizzera ha organizzato dei corsi di formazione continua sui loro diritti, sulla salute, l'alimentazione e l'educazione dei figli con la collaborazione e interventi da parte di specialiste nei diversi campi. In questo quadro è da inserire il suo interesse per le donne e la società dei Moso. Si è già recata sette volte sul posto e ha organizzato dei viaggi di piccoli gruppi per quelle donne desiderose di scoprire come sia possibile una vita diversa in cui le donne sono valorizzate e gli uomini non sono oppressi. Ha intervistato, fotografato e filmato gli abitanti realizzando un piccolo documentario che è stato selezionato al *Mosuo Film Festival* in Cina nel 2006 e proiettato in Francia, in Svizzera e in Italia. Nel 2010 ha pubblicato il libro "Benvenuti nel paese delle donne: un viaggio straordinario alla scoperta dei Moso, una società matriarcale senza violenze né gelosie". Nel 2013 ha realizzato assieme al giornalista-reporter Pio D'Emilia il documentario "Nu Guo - Nel Nome della Madre".  
-(http://www.francescarosatifreeman.com/)
+http://www.francescarosatifreeman.com/
 
 <br/>
 
@@ -58,11 +58,11 @@ Laureata in lingue e letterature straniere all'Università di Torino, con indiri
 "Regine e Dee al Tempo di Artù" disponibile anche in lingua inglese.  
 "Chiedi alla Terra"  
 "L'Arte della Divinazione Geomantica e Il Simbolismo Magico del Caffè"  
-(http://www.sarahperini.com)
+http://www.sarahperini.com
 
 ***Luciana Percovich***  
 Attiva nel movimento delle donne dall'inizio degli anni Settanta (Movimento per una medicina delle donne, Libreria delle donne di via Dogana), ha tenuto numerosi corsi per la Libera Università delle Donne di Milano, diretto collane di saggistica e scritto su varie riviste occupandosi di medicina delle donne, scienza, antropologia, mitologia e spiritualità femminile. Attualmente cura la collana *Le Civette/Saggi* per l'Editrice Venexia. Nel 2007 esce "Oscure Madri Splendenti - Le origini del sacro e delle religioni" (Venexia, Roma) e nel 2009, sempre con lo stesso editore, "Colei che dà la vita, Colei che dà la forma".  
-(http://www.enciclopediadelledonne.it)
+http://www.enciclopediadelledonne.it
 
 ***Rossana Mennella Esposito***
 
@@ -75,7 +75,7 @@ Tra la bibliografia essenziale e le pubblicazioni e articoli ricordiamo:
 "Della povertà, dello sviluppo, della decrescita" (Lib Lab)  
 "Il linguaggio della Dea Madre" (Lib Lab)  
 "Quale madre, quale padre" (Lib Lab)  
-(http://decrescitaroma.blogspot.it)
+http://decrescitaroma.blogspot.it
 
 ***Luisa Spagna***  
 Danzatrice, artista, docente di danza e libera ricercatrice sui temi del femminile nella danza, nel simbolismo e nelle arti figurative.  
@@ -93,7 +93,7 @@ Pubblicazioni:
 64 (+2) carte oracolari rotonde con libricino guida "Yogini of Hirapur Oracle" (Sutra Arti Performative, 2015) ispirate al tempio delle 64 Yogini di Hirapur in Orissa.  
 "La danza segreta delle Yogini. Il tempio di Hirapur" (Venexia, 2014)  
 "La gioia e il potere. Musica e danza in India" (Besa Editrice, Nardò 2008) scritto insieme a Paolo Pacciolla.  
-(http://www.sutraartiperformative.com)  
+http://www.sutraartiperformative.com
 
  **Foto** (didascalia foto "Laura Ghianda, Claudia, Sarah Perini, Anna Bordin presso Culture Indigene di Pace, Torino 2013")
 
@@ -106,29 +106,33 @@ Pubblicazioni:
  Composto dalle donne e dagli uomini che percorrono i sentieri di Avalon in Italia e che stanno lavorando sulla costruzione della Ruota di Diana e delle Dee italiche e mediterranee.
 
  ***Associazione "Tempio della Grande Dea"***  
- Roma (http://www.tempiodellagrandedea.com)
+ Roma - http://www.tempiodellagrandedea.com
 
  ***Associazione Laima***  
- (http://www.associazionelaima.it)
+ http://www.associazionelaima.it
 
  ***Associazione Agriope***  
- (http://www.argiope.it)
+ http://www.argiope.it
 
 <br/>
 
 + **Ambito locale**
 
 ***Associazione L'Acqua che Balla***  
-(http://www.acquacheballa.it)
+http://www.acquacheballa.it
 
 ***Associazione Tenda Rossa Trento***  
-(https://www.facebook.com/tendarossa.atrento/)
+https://www.facebook.com/tendarossa.atrento/
+
+***Alexander Bisan***  
+http://www.naturheilt.it/  
+Facebook - https://www.facebook.com/Petersberger-Leger-Alm-251348994954740/
 
 ***Il cerchio di Anu - OBOD Grove***  
-(https://www.facebook.com/groups/431896493614971/)
+https://www.facebook.com/groups/431896493614971/
 
 ***Associazione Armonia***  
-(http://www.armoniaericerca.it)
+http://www.armoniaericerca.it
 
 ***I guardiani della Terra***  
-(http://www.ilcerchiodidanu.com/guardiani-della-terra.html)
+http://www.ilcerchiodidanu.com/guardiani-della-terra.html
