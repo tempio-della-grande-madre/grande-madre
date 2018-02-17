@@ -4,7 +4,7 @@ title: "Chi siamo"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
-**Presidente**  
+**Presidentessa**  
 Laura Ghianda
 
 Co-Fondatrice del Cerchio Italiano di Avalon (di ispirazione al Glastonbury Goddess Temple, in Inghilterra), attualmente studia con Katinka Soetens in un percorso biennale riguardante il corpo e la sessualità sacra.  
@@ -16,7 +16,7 @@ Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino
 
 <br/>
 
-**Vicepresidente**  
+**Vicepresidentessa**  
 Nicoletta Cannaò
 
 Ho intrapreso il cammino nelle tradizioni di Dea a partire dal 2013 dopo essermi accorta che già prima la mia strada mi portava verso di Essa, nonostante la mia parte conscia cercasse di legarmi ai vecchi schemi duali, da cui ancora non posso dirmi del tutto libera. Ho iniziato con la conoscenza della Wicca da ragazzina, mi sono interessata prevalentemente alla tradizione celtica, benchè avessi grandi influenze norrene, continuavo a trovar legami molto profondi tra i due pantheon che mi spinsero a cercare una loro matrice comune, fu così che mi interessai anche di sciamanesimo ricercando fonti antropologiche e archeologiche. Ora sto iniziando a capire che tutto è collegato a un passato ancora più antico, che risale all'origine dell'umanità e alla venerazione di Dea Madre Universale, colei che racchiude in sè ogni cosa e ogni archetipo per quanto possano sembrarci lontani l'uno dagli altri. Attraverso i Suoi volti ho imparato a ri-conoscere il principio divino Femminile anche nella mia vita quotidiana e nel mio corpo, mi ha permesso di vivere la gestazione e la nascita di mia figlia con una diversa consapevolezza e di rendermi conto che un Mondo nuovo può realizzarsi attuando nuovi schemi di inclusione e consenso, perché è attraverso i nostri gesti e le nostre azioni che possiamo migliorare e trasformare la realtà in cui viviamo.  
