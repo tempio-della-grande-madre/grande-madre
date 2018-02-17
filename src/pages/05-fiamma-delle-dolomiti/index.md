@@ -14,7 +14,7 @@ La visione è giunta su ispirazione della Fiamma di Santa Brigida, perpetua fiam
 Dall'idea di Laura Ghianda, il progetto doveva diventare condiviso e allargato a ogni realtà potesse essere interessata a partecipare, nell'ottica della condivisione e non competizione, partnership e non prevaricazione.  
 È quindi stato creato un invito pubblico e in breve tempo sono arrivate adesioni e si è creato un gruppo di lavoro che ha aiutato a rendere il progetto realtà.
 
-La Fiamma, una volta accesa, è diventata perpetua: ogni tramonto un/a "Guardiano/a della Fiamma" la accende e la custodisce fino al tramonto successivo, quando un'altro/a guardiano/a prenderà il suo posto, e così via secondo una turnazione continua. Il gruppo dei/delle "Guardiani/e della Fiamma" è su base volontaria e attualmente è composto da (in ordine alfabetico): Anna Bordin, Chiara Freya Zuolo , Daniela Albero, Francesca, Giuseppe Mosna, Laura Ghianda, Nicoletta Cannaò, Paolo Bran Veneziani, Sara Shar, Silvia Ennona.
+La Fiamma, una volta accesa, è diventata perpetua: ogni tramonto un/a "Guardiano/a della Fiamma" la accende e la custodisce fino al tramonto successivo, quando un'altro/a Guardiano/a prenderà il suo posto, e così via secondo una turnazione continua. Il gruppo dei/delle Guardiani/e è su base volontaria e attualmente è composto da 9 membri.
 
 La Fiamma delle Dolomiti è stata ora "donata" alla Fiamma di Avalon perché ardano unite come simbolo di vicinanza e della rete mondiale che si sta via via costruendo.
 
