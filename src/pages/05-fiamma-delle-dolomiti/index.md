@@ -9,6 +9,8 @@ La vampa sprigiona;
 fiamma, che tardi  
 nell'aria a balzar?*
 
+<br/>
+
 Il 20 settembre 2015, per mezzo di un'emozionante cerimonia pubblica, è stata (ri)accesa una Fiamma Sacra nelle nostre terre, la Fiamma della Grande Madre delle Dolomiti.  
 La visione è giunta su ispirazione della Fiamma di Santa Brigida, perpetua fiamma sacra che arde presso il monastero di Kildare in Irlanda e mantenuta accesa dalle monache Brigidine e dalla Fiamma di Avalon, custodita dal Tempio della Dea di Glastonbury e da *keepers* dislocati in tutto il mondo.  
 Dall'idea di Laura Ghianda, il progetto doveva diventare condiviso e allargato a ogni realtà potesse essere interessata a partecipare, nell'ottica della condivisione e non competizione, partnership e non prevaricazione.  

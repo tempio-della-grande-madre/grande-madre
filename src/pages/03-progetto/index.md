@@ -19,10 +19,17 @@ Una cosa detta d'istinto, di cuore, con un sacco di paura e di timore. Ancora no
 Da allora sono passati 10 anni e moltissime cose sono cambiate. Molto si è mosso. Altre persone in Italia hanno fatto esperienza di quel luogo-tempio, altre hanno concluso o cominciato la formazione alla sua scuola. Il sogno si è fatto collettivo. Abbiamo iniziato a collaborare, incontrarci, condividere idee, conoscenze, esperienze, mettendo in comune le nostre risorse.  
 Ciascuna di noi, lavorando nella sua realtà locale.
 
-Il sogno più ambizioso della nostra associazione è pervenire, nel tempo, alla possibilità di aprire una sede stabile da adibire a moderno "Tempio della Grande Madre", sul modello del Glastonbury Goddess Temple **(link alla pagina "con chi collaboriamo")** e del [Goddess Temple di Ashland](http://www.goddesstempleashland.com/) (USA), dove custodire la Fiamma della Grande Madre delle Dolomiti **(link alla pagina della fiamma)**, riaccesa cerimonialmente il 20 settembre 2015.
+Il sogno più ambizioso della nostra associazione è pervenire, nel tempo, alla possibilità di aprire una sede stabile da adibire a moderno "Tempio della Grande Madre", sul modello del [Glastonbury Goddess Temple](http://www.goddesstemple.co.uk) e del [Goddess Temple di Ashland](http://www.goddesstempleashland.com/) (USA), dove custodire la [Fiamma della Grande Madre delle Dolomiti](fiamma-delle-dolomiti), riaccesa cerimonialmente il 20 settembre 2015.
 A questo scopo raccoglieremo il denaro derivante dai corsi, per-corsi e nostre proposte, dalle donazioni e dal crowdfunding (se vuoi contribuire, questa è la nostra [pagina](https://buonacausa.org/cause/tempiodellagrandemadre)). Tutto quello che non verrà nel corso dell'anno re-investito in altri progetti secondo i fini dell"organizzazione, sarà messo da parte in un fondo per realizzare il nostro sogno.
 
-Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donazioni, ti ringraziamo dal profondo del nostro cuore! **(pulsante "dona")**
+Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donazioni, ti ringraziamo dal profondo del nostro cuore!
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XX9ES4XG3K54C">
+<input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+</form>_
 
 Nel frattempo ci muoveremo per le provincie di Trento, Bolzano, Belluno e ovunque ci chiamino con il progetto "Tempio Temporaneo e Itinerante", allestendo come Tempio gli spazi che prenderemo brevemente in affitto per l'occasione (o meglio ancora, con un po' di fortuna, il cui uso ci sarà donato per il tempo necessario alla nostra iniziativa). Connetteremo energeticamente il nostro tempio a quello di Glastonbury, che ci sostiene in questo progetto, e lo metteremo a disposizione delle persone che vogliono farne esperienza. Il tempo sarà suddiviso tra momenti strutturati con proposte di laboratori, workshop, attività e momenti di apertura dove stare raccolti, meditare, riposare, scrivere, pregare, sognare, divinare, ecc. in uno spazio che rappresenta il caldo grembo della Grande Madre.
 
@@ -34,7 +41,7 @@ Contattaci!
 
 Per restare aggiornate/i **(iscrizione newsletter)**
 
-Pagina Facebook ["Dea nelle Dolomiti – I volti della Grande Madre"](https://www.facebook.com/deatrentino)
+Pagina Facebook ["Dea nelle Dolomiti - I volti della Grande Madre"](https://www.facebook.com/deatrentino)
 
 Per saperne di più:  
 Articolo "[Il sogno e la visione del Tempio della Grande Madre di Trento](http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html)"  

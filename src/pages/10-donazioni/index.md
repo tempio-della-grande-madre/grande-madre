@@ -14,7 +14,6 @@ Il denaro serve a coprire le molte spese associative, gli affitti delle sale, la
 
 Condividi le nostre visioni? Ti piacciono i nostri progetti? Ti piacerebbe che ci fosse un tempio a disposizione di tutte/i anche nella nostra area?  
 Anche piccolissime donazioni ci aiutano, perché tante piccole donazioni possono farne una grossa!  
-**[DONA](http://www.buonacausa.org/cause/tempiodellagrandemadre)**
 
 Puoi anche devolvere il tuo 5 per Mille dalla dichiarazione dei redditi (a te non costa nulla ma per noi vale tantissimo!), basta indicare il nostro codice fiscale nell'apposito campo del modello 730: 90017350225.  
 Oppure diventare socio/a e partecipare ai nostri eventi.
@@ -24,6 +23,15 @@ In futuro potremmo aver bisogno di manutentori, elettricisti, muratori, carpenti
 
 Se invece hai una vecchia sala, cantina, stanza grande o qualsiasi locale inutilizzato dotato di minimi standard igienici, forse ti piacerebbe dargli un senso e "prestarcelo" (comodato d'uso o affitto simbolico): sappi che stiamo cercando uno spazio da adibire a "Tempio della Grande Madre", sede della nostra associazione possibilmente non troppo lontana dalla città/paesi limitrofi. Anche a tempo determinato!  
 Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro".  
+
+<br/>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="XX9ES4XG3K54C">
+<input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+</form>_
 
 <br/>
 
