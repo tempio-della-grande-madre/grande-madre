@@ -5,7 +5,6 @@ import '../scss/index.scss';
 import {description} from '../../package.json';
 import Navigation from '../components/navigation';
 import Main from '../components/main';
-import Footer from '../components/footer';
 
 export default function TemplateWrapper({ children }) {
   return <div id="root">
@@ -14,6 +13,5 @@ export default function TemplateWrapper({ children }) {
     <Main headerName={description}>
       {children}
     </Main>
-    <Footer/>
   </div>;
 };

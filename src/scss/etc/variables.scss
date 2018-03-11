@@ -27,7 +27,7 @@ $big-screen-min-width-threshold: 2000px;
 @mixin font-size($little, $normal) {
 
   font-size: $little;
-  @media screen and (min-width: $screen-min-width-threshold) {
+  @media screen and (min-width: ($screen-min-width-threshold / 1.5)) {
 
 		font-size: $normal;
 	}

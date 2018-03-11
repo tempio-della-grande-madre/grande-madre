@@ -5,6 +5,10 @@
 
   .post-container {
     text-align: justify;
-    @include padding-left-right(1vw, 3rem);
+    padding: 0 1vw 1vw;
+    @media screen and (min-width: $screen-min-width-threshold) {
+
+  		padding: 0 3rem 3rem;
+  	}
   }
 }
