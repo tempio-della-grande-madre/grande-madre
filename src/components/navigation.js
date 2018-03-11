@@ -4,6 +4,27 @@ import Link from 'gatsby-link';
 import logo from '../assets/logo.svg';
 import menu from '../pages/menu.json';
 
+const doMenu = elm => {
+  const subMenu = (() => {
+    if (elm.sections &&
+      elm.sections.length > 0) {
+
+      return elm.sections.map(aSection => doMenu(aSection));
+    }
+
+    return '';
+  })();
+
+  return <li key={elm.name} className="menu-item">
+    <div>
+      <Link to={elm.path}>
+        {elm.name}
+      </Link>
+    </div>
+    {subMenu}
+  </li>;
+}
+
 export default class Header extends React.Component {
 
   constructor(props) {
@@ -15,14 +36,9 @@ export default class Header extends React.Component {
 
     for (let i = 0; i < menu.length; i += 1) {
       const aMenuItem = menu[i]
+        , menuElement = doMenu(aMenuItem);
 
-      thisMenu.push(<li key={aMenuItem.name} className="menu-item">
-        <div>
-          <Link to={aMenuItem.path}>
-            {aMenuItem.name}
-          </Link>
-        </div>
-      </li>);
+      thisMenu.push(menuElement);
     }
 
     return <div id="navigation">
