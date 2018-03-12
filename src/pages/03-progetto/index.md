@@ -35,14 +35,10 @@ Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donaz
 Nel frattempo ci muoveremo per le provincie di Trento, Bolzano, Belluno e ovunque ci chiamino con il progetto "Tempio Temporaneo e Itinerante", allestendo come Tempio gli spazi che prenderemo brevemente in affitto per l'occasione (o meglio ancora, con un po' di fortuna, il cui uso ci sarà donato per il tempo necessario alla nostra iniziativa). Connetteremo energeticamente il nostro tempio a quello di Glastonbury, che ci sostiene in questo progetto, e lo metteremo a disposizione delle persone che vogliono farne esperienza. Il tempo sarà suddiviso tra momenti strutturati con proposte di laboratori, workshop, attività e momenti di apertura dove stare raccolti, meditare, riposare, scrivere, pregare, sognare, divinare, ecc. in uno spazio che rappresenta il caldo grembo della Grande Madre.
 
 E se invece hai una vecchia sala, grande cantina, grande stanza, ex magazzino o qualsiasi locale inutilizzato dotato di minimi standard igienici (finestra e bagno), ti piacerebbe dargli un senso e "prestarcelo" (comodato d'uso o affitto simbolico): lo possiamo trasformare in "Tempio della Grande Madre", sede della nostra associazione, possibilmente non troppo lontano dalla città/paesi limitrofi. Anche a tempo determinato!
-Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro".
-Contattaci!
+Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro".  
+[**Contattaci!**](/contatti)
 
 <br/>
-
-Per restare aggiornate/i **(iscrizione newsletter)**
-
-Pagina Facebook ["Dea nelle Dolomiti - I volti della Grande Madre"](https://www.facebook.com/deatrentino)
 
 Per saperne di più:  
 Articolo "[Il sogno e la visione del Tempio della Grande Madre di Trento](http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html)"  

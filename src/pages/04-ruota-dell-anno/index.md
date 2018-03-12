@@ -11,9 +11,17 @@ La Ruota dell'Anno può a ragione considerarsi la base di partenza di ogni nostr
 Si tratta di uno strumento formidabile, una "bussola" che orienta il processo di ri-sacralizzazione della realtà in tutti i suoi aspetti.  
 Ruote si trovano un po' ovunque nel mondo, riferite a culture antiche ma anche attuali. Non ne esiste un'unica versione. E' quindi importante inquadrare questo nostro strumento di lavoro per il modo in cui lo approcciamo qui e ora.
 
-**Immagine: Ruota dipinta da Wendy Andrew per il Tempio di Glastonbury**
+<br/>
 
-La Ruota che utilizziamo si ispira a quella creata da Kathy Jones nell'ambito del Glastonbury Goddess Temple **(link alla pagina rispettiva con chi collaboriamo)**: nel crearla, a sua volta Kathy Jones si è ispirata a tradizioni più antiche.  
+<p>
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-wendy-andrew.jpg">
+</p>
+
+Ruota dipinta da Wendy Andrew per il Tempio di Glastonbury
+
+<br/>
+
+La Ruota che utilizziamo si ispira a quella creata da Kathy Jones nell'ambito del [Glastonbury Goddess Temple](/collaborazioni): nel crearla, a sua volta Kathy Jones si è ispirata a tradizioni più antiche.  
 Tuttavia c'è un motivo per cui la ruota è, appunto, una ruota e non ad esempio la "linea retta" che si è imposta come modello di riferimento per l'organizzazione del pensiero e della conoscenza patriarcale, anche nella religione per come la conosciamo comunemente.  
 La ruota ha in sé il concetto di mutamento. La ruota "gira". È uno strumento che può mutare con il mutare dei tempi.  
 La ruota di Glastonbury si presenta in modo leggermente differente (nella posizione degli elementi) da quella più utilizzata da altre tradizioni o da forme di neopaganesimi di matrice celtica. La ragione è che questa ruota si prefigge il tentativo di comprendere nuovamente, ricostruire e ri-membrare (da "re-membering", termine coniato da Mary Daly e che ha il duplice significato di "ricordare" e "mettere assieme") gli archetipi del sacro femminino.  
@@ -50,15 +58,29 @@ Bolen, peraltro, porta un'altra importante "svista":  presenta la somma degli ar
 Tornando alla Ruota di Glastonbury, le posizioni degli elementi seguono l'antica disposizione che va dal "più leggero al più solido": aria-fuoco-acqua-terra, una rappresentazione di ogni processo di creazione. La loro posizione peculiare in rapporto alle direzioni trova ragione nella fluidità simbolica del legame con gli archetipi che lo precedono e susseguono.  
 Per saperne di più invito la lettura dei testi, entrambi di Kathy Jones: "Camminando sulla Ruota della Dea Ana - Le Ruote dell'Anno nelle antiche tradizioni" che esplica l'intero processo di creazione della ruota, e "La Dea nell'Antica Britannia". (Editi entrambi da Ester Edizioni in lingua italiana)
 
+<br/>
+
+<p>
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-semplice.jpg">
+</p>
+
+<br/>
+
 Solo a titolo estremamente riassuntivo e, tengo a precisare, non esaurendo in queste poche righe il complesso sistema simbolico di ogni direzione, la logica è questa: il ragionamento parte da Brigit (Santa Brigida) collocata in Europa pressoché universalmente a nord-est in corrispondenza del "risveglio" della scintilla vitale sul finire dell'inverno, ed  è considerato il legame di questa Dea con il fuoco che si trova quindi nello spicchio successivo a est. Il fuoco è anche l'alba, la nuova nascita, le Dee solari che sono copiose in queste terre. Fuoco è anche passione, che si lega fluidamente al passaggio nello spicchio successivo a sud-est che è rappresentato dall'archetipo dell'Amante. L'Amante porta in sé passione e bellezza, sensualità e sessualità, piacere e amore. Amore che è connesso inevitabilmente con il reame delle emozioni, la profondità del nostro essere, ben rappresentato dal successivo spicchio a sud: la Madre dell'elemento Acqua. Le acque oltre che il regno delle emozioni sono anche le acque primordiali da cui ogni creatura proviene, sono Madre Acqua, appunto. Ciò si connette molto bene all'archetipo successivo a sud-ovest, quello della Madre e del grembo gravido, della potenza creativa e dell'abbondanza. A sua volta il legame è intuitivo con Madre Terra che viene immediatamente dopo l'archetipo della Madre e si colloca a ovest. Madre Terra che ci radica, ci nutre ma ci accoglie anche nel suo ventre buio ove tutto inizia e tutto finisce, l'ovest della terra dei morti, il tramonto del sole. Ecco che lo spicchio successivo di nord-ovest rappresenta la Crona, la Vecchia megera, la fine e la morte ma anche la sfida. Segue a nord la quiete dell'inverno, la pausa tra espiro e inspiro, la Madre dell'Aria che pure collega la fine dell'esistenza con il nuovo inizio, l'ispirazione della nuova creazione.  
 E ricomincia un altro giro.
 
-L'intera ruota è assai più ricca. Molto più di qualsiasi schema riassuntivo che ha il mero scopo di orientare. In essa trova posto **la totalità delle esperienze e delle manifestazioni della vita**, senza scissione tra sacro e profano, tra spirito e materia. Questa significazione dura probabilmente l'intera esistenza e iniziamo a vederla nel per.corso di apprendimento della Ruota dell'Anno **(link alla pagina del per.corso "conoscere e vivere la Ruota dell'Anno).**  
+L'intera ruota è assai più ricca. Molto più di qualsiasi schema riassuntivo che ha il mero scopo di orientare. In essa trova posto **la totalità delle esperienze e delle manifestazioni della vita**, senza scissione tra sacro e profano, tra spirito e materia. Questa significazione dura probabilmente l'intera esistenza e iniziamo a vederla nel per.corso di apprendimento della [Ruota dell'Anno](/corso-ruota-dell-anno).  
 Ecco perché ne parlo in termini di "bussola che risacralizza la realtà".
 
 Peculiarità di questo cammino è la restituzione a ogni singola persona dell'esperienza del sacro. La "bussola" orienta: apprendere il suo linguaggio può rappresentare un inizio ma in seguito non c'è alcun bisogno di *intermediari*. Ciascuna/o potrà continuare a indagare la ruota e ancorarla alla sua vita, permettendole di scendere a ogni ciclo sempre più in profondità, in una spirale che ci porta a una maggiore conoscenza di noi stesse/i e di quanto ci circonda.
 
-**Immagine: Ruota a pagina 34 del libro**
+<br/>
+
+<p>
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-di-brigit.jpg">
+</p>
+
+<br/>
 
 La logica che sottende la Ruota di Glastonbury mi ha conquistata e ne ho fatto il mio strumento di pratica spirituale per anni. Esistono altri modelli di ruota, in Italia come all'estero, tutti ottimi e validi.  
 Insisto nel definire questo strumento una convenzione. Non è mai e in nessun caso un dogma. Presentarlo in questi termini significherebbe snaturarne il suo stesso scopo. In quanto strumento ciascuna/o ricercatrice/ricercatore può cercare quello che funziona meglio per sé.  
@@ -72,7 +94,7 @@ Queste figure, presentate come Regine, Sante, Dee o semidee, sembra premino per 
 
 Ciascun incontro del per.corso ha visto una o più di queste figure come protagoniste. Ne abbiamo riletto le storie, analizzato i possibili simboli di una cultura androcentrica affibbiati nelle varie riscritture (o il modo in cui la religione successiva le ha assorbite), cercato il simbolismo relativo a un sacro femminino che a volte è evidente al primo sguardo, altre volte meno e richiede lavoro. La comparazione con altre mitologie sacre e l'analisi presentata da Kathy Jones in questo senso possono definirsi come linee guida.  
 Ogni incontro è avvenuto alla luce di una sua fiamma, dedicata a uno di questi aspetti di Dee Dolomitiche. La fiamma via a via che trascorreva l'anno si arricchiva di nuovi aspetti e nuove leggende fino all'ultimo incontro, avvenuto il 19 settembre 2015, dedicato alla Terra e al radicarsi: lo abbiamo celebrato radicando la Ruota della Grande Madre delle Dolomiti cerimonialmente.  
-La Fiamma del Cerchio appena concluso, rappresentante la nostra viva Ruota locale, è diventata matrice per l'accensione della Fiamma della Grande Madre delle Dolomiti **(link alla pagina della fiamma)**, con la [pubblica cerimonia](http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html) avvenuta il 20 settembre 2015.
+La Fiamma del Cerchio appena concluso, rappresentante la nostra viva Ruota locale, è diventata matrice per l'accensione della [Fiamma della Grande Madre delle Dolomiti](/fiamma-delle-dolomiti), con la [pubblica cerimonia](http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html) avvenuta il 20 settembre 2015.
 
 <br/>
 

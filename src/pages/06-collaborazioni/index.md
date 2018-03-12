@@ -95,9 +95,23 @@ Pubblicazioni:
 "La gioia e il potere. Musica e danza in India" (Besa Editrice, Nardò 2008) scritto insieme a Paolo Pacciolla.  
 http://www.sutraartiperformative.com
 
- **Foto** (didascalia foto "Laura Ghianda, Claudia, Sarah Perini, Anna Bordin presso Culture Indigene di Pace, Torino 2013")
+<br/>
 
- **Foto** (didascalia foto "Anna Bordin, Laura Ghianda, Claudia all'edizione del 2014 della Glastonbury Goddess Conference")
+<p>
+ <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/collaborazioni-1.jpg">
+</p>
+
+Laura Ghianda, Claudia, Sarah Perini, Anna Bordin presso Culture Indigene di Pace, Torino 2013  
+
+<br/>
+
+<p>
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/collaborazioni-2.jpg">
+</p>
+
+Anna Bordin, Laura Ghianda, Claudia all'edizione del 2014 della Glastonbury Goddess Conference  
+
+<br/>
 
  ***Il Cerchio italiano di Avalon***  
  Composto dalle donne e dagli uomini che percorrono i sentieri di Avalon in Italia.

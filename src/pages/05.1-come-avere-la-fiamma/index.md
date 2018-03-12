@@ -12,11 +12,18 @@ Fare in modo che arda in molte case, nei luoghi di lavoro, nei centri di ricerca
 
 Spesso distribuiamo la Fiamma ai nostri eventi.  
 Se però vivi lontano, spediamo la Fiamma ovunque ci venga richiesta, chiedendo piccoli contributi così calcolati: rimborso spese materiali + una piccola offerta per auto sostenerci + spese di spedizione (nel caso delle scatoline sono 3 euro più spedizione).  
-**Mettere foto**
+
+<br/>
+
+<p>
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/tealight-fiamma.jpg">
+</p>
+
+<br/>
 
 Il modo più semplice per ottenerla è ordinare la scatolina di base, fatta a mano con amore, e che contiene una tea-light accesa dalla Fiamma custodita da uno dei guardiani.   L'energia della Fiamma risiede sulla parte dello stoppino che con lei è venuto in contatto, quindi si rianimerà ogni qual volta verrà riaccesa da voi.  
 Suggeriamo, una volta ottenuta la tea-light, di "passare" la Fiamma a candele e ceri più grandi e duraturi, per tutte le volte che vorrete!
 
 Per autosostenerci vendiamo anche delle candele più grandi, bicolore verde/azzurro e fatte per noi con metodi artigianali, al costo di 7 euro più spedizione. È possibile ottenere la Fiamma anche tramite queste candele.
 
-Per averla scrivete un'email a **(indirizzo di proposito creato con il sito, tipo Fiammadolomiti@tempiodellagrandemadre.org)**.
+Per ulteriori informazioni [**contattaci**](/contatti)

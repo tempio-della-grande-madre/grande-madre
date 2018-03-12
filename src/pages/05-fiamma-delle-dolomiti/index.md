@@ -16,9 +16,23 @@ La visione è giunta su ispirazione della Fiamma di Santa Brigida, perpetua fiam
 Dall'idea di Laura Ghianda, il progetto doveva diventare condiviso e allargato a ogni realtà potesse essere interessata a partecipare, nell'ottica della condivisione e non competizione, partnership e non prevaricazione.  
 È quindi stato creato un invito pubblico e in breve tempo sono arrivate adesioni e si è creato un gruppo di lavoro che ha aiutato a rendere il progetto realtà.
 
+<br/>
+
+<p align="center">
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/fiamma-1.jpg">
+</p>
+
+<br/>
+
 La Fiamma, una volta accesa, è diventata perpetua: ogni tramonto un/a "Guardiano/a della Fiamma" la accende e la custodisce fino al tramonto successivo, quando un'altro/a Guardiano/a prenderà il suo posto, e così via secondo una turnazione continua. Il gruppo dei/delle Guardiani/e è su base volontaria e attualmente è composto da 9 membri.
 
 La Fiamma delle Dolomiti è stata ora "donata" alla Fiamma di Avalon perché ardano unite come simbolo di vicinanza e della rete mondiale che si sta via via costruendo.
+
+<br/>
+
+<p align="center">
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/fiamma-2.jpg">
+</p>
 
 <br/>
 
@@ -48,6 +62,12 @@ Delle generazioni che abiteranno il mondo dopo di noi.*
 
 <br/>
 
+<p align="center">
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/fiamma-3.jpg">
+</p>
+
+<br/>
+
 **I colori della Fiamma**  
 La Fiamma della Grande Madre delle Dolomiti è rappresentata da un dominante colore verde unito a varie sfumature di toni azzurri: il colore è stato scelto tramite sondaggio online per 4 mesi, sulla base di quasi 80 votanti. Il verde ben rappresenta la natura, i monti e le valli, erbe e piante... Nella sua sfumatura più scura è il colore dei sempreverdi visibili anche nella stagione invernale. L'azzurro può significare il cielo, le acque in tutte le sue forme, la foschia che colora di questi toni i monti in lontananza, la luce nei paesaggi invernali.  
 Sembra che un colorito verde-azzurrognolo fosse anche tipico dei primi microrganismi batterici che colonizzarono la Terra all'inizio della storia della vita.  
@@ -58,6 +78,12 @@ Per leggere la [cronaca della cerimonia](http://lauraghianda.blogspot.it/2015/10
 Per leggere l'[invito all'accensione](http://lauraghianda.blogspot.it/2015/05/cerimonia-di-creazione-e-accensione.html)
 
 Grazie di cuore a Denise Layla Paraboni (Tempio della Dea - Brianza) per le foto e per la digitalizzazione del logo dell'associazione!
+
+<br/>
+
+<p align="center">
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/gruppo-fiamma.jpg">
+</p>
 
 <br/>
 

@@ -15,16 +15,6 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
-**Prossimi eventi in programma:**
-
-+ Celebrazione dell'Equinozio di Primavera  
-Sabato 17 marzo 2018  
-Ore 20:00-22:00
-
-+ Celebrazione del Solstizio d'Estate  
-Sabato 23 giugno 2018  
-Ore 20:00-22:00
-
-+ Celebrazione dell'Equinozio d'Autunno  
-Sabato 29 settembre 2018  
-Ore 20:00-22:00
+<p align="center">
+  <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/celebrazioni-2017-2018.jpg">
+</p>
