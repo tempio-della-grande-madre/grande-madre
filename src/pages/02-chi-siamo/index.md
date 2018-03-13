@@ -32,7 +32,7 @@ Laureata in archeologia, appassionata di lettura e scrittura. Da sempre interess
 <br/>
 
 **Consigliera**  
-Francesca
+Francesca Iachelini
 
 Figlia della Terra, donna in cammino e in crescita. Legata da un profondo amore per la sua terra di appartenenza e di origine e dal forte bisogno di connessione con la natura.  
 Appassionata di archeologia e di tutto ciò che ispira il suo cammino spirituale, soprattutto a livello locale.  
