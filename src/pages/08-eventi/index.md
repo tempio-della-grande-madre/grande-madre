@@ -15,6 +15,10 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
+Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra [**newsletter**](http://eepurl.com/dn1OzT)
+
+<br/>
+
 <p align="center">
   <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/celebrazioni-2017-2018.jpg">
 </p>
