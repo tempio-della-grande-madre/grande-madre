@@ -1,0 +1,102 @@
+{
+  "assetsByChunkName": {
+    "path---statuto": [
+      "path---statuto-b3deb0b599e472ee9e55.js",
+      "path---statuto-b3deb0b599e472ee9e55.js.map"
+    ],
+    "path---contatti": [
+      "path---contatti-43406d3e9b60d70896c1.js",
+      "path---contatti-43406d3e9b60d70896c1.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-9c77ea7188b24e58c7e9.js",
+      "component---src-pages-index-js-9c77ea7188b24e58c7e9.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---collaborazioni": [
+      "path---collaborazioni-bf677a22d7e53e71d748.js",
+      "path---collaborazioni-bf677a22d7e53e71d748.js.map"
+    ],
+    "path---realta-acceso-fiamma": [
+      "path---realta-acceso-fiamma-8056def82c9d15245ab7.js",
+      "path---realta-acceso-fiamma-8056def82c9d15245ab7.js.map"
+    ],
+    "path---home": [
+      "path---home-6d4994d010120153cc6c.js",
+      "path---home-6d4994d010120153cc6c.js.map"
+    ],
+    "path---cosa-facciamo": [
+      "path---cosa-facciamo-9287b5155d28147e9d7e.js",
+      "path---cosa-facciamo-9287b5155d28147e9d7e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3a7ea55ccf4e4a505639.js",
+      "component---src-layouts-index-js-3a7ea55ccf4e4a505639.js.map"
+    ],
+    "path---eventi": [
+      "path---eventi-9d73aacc9cc86de75713.js",
+      "path---eventi-9d73aacc9cc86de75713.js.map"
+    ],
+    "path---chi-siamo": [
+      "path---chi-siamo-7a849907615d0c2e0704.js",
+      "path---chi-siamo-7a849907615d0c2e0704.js.map"
+    ],
+    "component---src-templates-article-js": [
+      "component---src-templates-article-js-c599a343fc0aed94114d.js",
+      "component---src-templates-article-js-c599a343fc0aed94114d.js.map"
+    ],
+    "path---corsi-annuali": [
+      "path---corsi-annuali-8ad87e1805807696f332.js",
+      "path---corsi-annuali-8ad87e1805807696f332.js.map"
+    ],
+    "path---index": [
+      "path---index-077afa46dca1caefcd1b.js",
+      "path---index-077afa46dca1caefcd1b.js.map"
+    ],
+    "path---progetto": [
+      "path---progetto-07ad4bdd546357a9f4ca.js",
+      "path---progetto-07ad4bdd546357a9f4ca.js.map"
+    ],
+    "commons": [
+      "commons-899d9e1ac5c29c6f33c8.js",
+      "commons-899d9e1ac5c29c6f33c8.js.map"
+    ],
+    "path---corso-ruota-dell-anno": [
+      "path---corso-ruota-dell-anno-7ae40676fb2cab0bbaac.js",
+      "path---corso-ruota-dell-anno-7ae40676fb2cab0bbaac.js.map"
+    ],
+    "app": [
+      "app-9b5245e413e4ff790691.js",
+      "build-js-styles.css",
+      "app-9b5245e413e4ff790691.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---come-avere-la-fiamma": [
+      "path---come-avere-la-fiamma-7dd1ee8d788d092d0ba7.js",
+      "path---come-avere-la-fiamma-7dd1ee8d788d092d0ba7.js.map"
+    ],
+    "path---fiamma-delle-dolomiti": [
+      "path---fiamma-delle-dolomiti-9261d98189d239d9897c.js",
+      "path---fiamma-delle-dolomiti-9261d98189d239d9897c.js.map"
+    ],
+    "path---ruota-dell-anno": [
+      "path---ruota-dell-anno-da72794395d3122cdb37.js",
+      "path---ruota-dell-anno-da72794395d3122cdb37.js.map"
+    ],
+    "path---donazioni": [
+      "path---donazioni-6630576f3287d9e29966.js",
+      "path---donazioni-6630576f3287d9e29966.js.map"
+    ],
+    "path---corso-seconda-spirale": [
+      "path---corso-seconda-spirale-65c66caa915e2f2b42a2.js",
+      "path---corso-seconda-spirale-65c66caa915e2f2b42a2.js.map"
+    ],
+    "path---spiritualita-e-denaro": [
+      "path---spiritualita-e-denaro-6d54124daecb420f5f8f.js",
+      "path---spiritualita-e-denaro-6d54124daecb420f5f8f.js.map"
+    ]
+  }
+}
