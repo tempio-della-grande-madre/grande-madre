@@ -6,11 +6,15 @@
   .post-container {
     @include font-size(2.5vw, 1.2rem);
     text-align: justify;
-    padding: 0 1vw 1vw;
+    padding: 0 3vw 1vw 0;
     @media screen and (min-width: $screen-min-width-threshold) {
 
   		padding: 0 3rem 3rem;
   	}
+
+    ul {
+      padding: 0 0 0 1rem;
+    }
 
     .post-content {
       line-height: 1.3;
