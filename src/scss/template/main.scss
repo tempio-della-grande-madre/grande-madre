@@ -4,6 +4,7 @@
   }
 
   .post-container {
+    @include font-size(2.5vw, 1.2rem);
     text-align: justify;
     padding: 0 1vw 1vw;
     @media screen and (min-width: $screen-min-width-threshold) {
