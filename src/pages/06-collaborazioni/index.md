@@ -9,8 +9,9 @@ date: "2018-01-22T22:01:06.037Z"
 ***The Glastonbury Goddess Temple***  
 È il primo Tempio dedicato a una divinità indigena a essere aperto in Europa e ufficialmente riconosciuto da un governo occidentale da circa 2000 anni a questa parte. Dal 2013 i matrimoni in esso celebrati hanno valore legale nel Regno Unito.  
 Il tempio offre una scuola ufficiale di formazione alla spiritualità della Dea con possibilità di dedicarsi come Sue sacerdotesse/sacerdoti. È organizzata secondo principi matristici e di partnership: non esiste una struttura piramidale, non esistono "somme sacerdotesse" o "capi", non ci sono dogmi a cui obbedire, le iniziazioni e dedicazioni non sono "investite dall'alto". L'organizzazione del tempio è circolare e le decisioni sono prese con il metodo del consenso.  
-http://www.goddesstemple.co.uk  
-http://www.goddesstempleteachings.co.uk
+
+<a href="http://www.goddesstemple.co.uk" target="\_blank">http://www.goddesstemple.co.uk</a>  
+<a href="http://www.goddesstempleteachings.co.uk" target="\_blank">http://www.goddesstempleteachings.co.uk</a>
 
 Kathy Jones (http://www.kathyjones.co.uk/)  
 Erin Mc Cauliff  
