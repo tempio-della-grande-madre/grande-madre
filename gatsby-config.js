@@ -44,10 +44,7 @@ module.exports = {
       }
     },
     {
-      'resolve': 'gatsby-plugin-github-pages',
-      'options': {
-        'customDomain': 'tempiodellagrandemadre.org'
-      }
+      'resolve': 'gatsby-plugin-github-pages'
     }
   ]
 };
