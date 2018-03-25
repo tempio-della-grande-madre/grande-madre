@@ -33,7 +33,7 @@ Un piccolo preambolo: nel nostro paese c'è molta resistenza rispetto alla possi
 In un mondo che domanda di essere pagato in denaro, non è possibile proporre gratuità senza che qualcuno (l'organizzazione) ne perda.  
 Inoltre, come Associazione di Promozione Sociale *Tempio della Grande Madre*, i corsi e per.corsi rappresentano il nostro modo principale per sostenerci: tutto il denaro ricavato verrà reinvestito in nuovi progetti connessi con gli scopi associativi. Il nostro obiettivo più grande è pervenire a una sede stabile da adibire a moderno Tempio della Grande Madre ove custodire la Fiamma della Grande Madre delle Dolomiti, riaccesa il 20 settembre 2015.
 
-**Il costo per l'anno 2018/2019 è di € 370 + tessera associativa di € 15.**  
+**Il costo per l'anno 2018/2019 è di € 400 + tessera associativa di € 15.**  
 Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le spese extra (pranzi all'esterno, eventuali pernottamenti) e il materiale da portare (oggetti da cercare nella natura, stoffe, pennelli, nastri ecc.).
 
 <br/>

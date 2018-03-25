@@ -8,4 +8,4 @@ La nostra pagina Facebook: https://www.facebook.com/deatrentino/
 
 La pagina del nostro crowdfunding: https://buonacausa.org/cause/tempiodellagrandemadre
 
-La nostra newsletter (http://eepurl.com/dn1OzT)
+[Iscriviti alla nostra newsletter](http://eepurl.com/dn1OzT)
