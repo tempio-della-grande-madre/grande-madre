@@ -43,7 +43,8 @@ Islanda
 USA  
 Australia
 
-Per maggiori informazioni: <a href="http://www.goddesstemplepriestesses.com/" target="\_blank">http://www.goddesstemplepriestesses.com/</a>
+Per maggiori informazioni:  
+<a href="http://www.goddesstemplepriestesses.com/" target="\_blank">http://www.goddesstemplepriestesses.com/</a>
 
 <br/>
 
