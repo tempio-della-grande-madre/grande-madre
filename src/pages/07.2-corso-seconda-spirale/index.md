@@ -10,8 +10,8 @@ Cosa può significare e comportare scegliere il sentiero della sacerdotessa oggi
 Questo percorso mira ad acquisire strumenti teorici e pratici da spendere nella propria vita, nella cultura e nella società di oggi. Quello della sacerdotessa non è affatto un "ruolo da mettere sul piedistallo" ma è una scelta che richiede dedizione ed entusiasmo, definibile un vero e proprio stile di vita.  
 La sacerdotessa non si "innalza" sopra agli altri, semmai scava più in profondità.
 
-I contenuti spaziano dalla ritualità pubblica e privata all'apprendimento di strumenti per costruire relazioni più efficaci; dalla sperimentazione di antiche pratiche utilizzate per millenni dalle sacerdotesse del passato all'attivismo nel mondo moderno.  
-Attualmente il per.corso si sviluppa nell'arco di un anno e parte ogni due anni, alternandosi con la prima spirale *Conoscere e vivere la Ruota dell'Anno*.
+I contenuti spaziano dalla ritualità pubblica e privata all'apprendimento di strumenti per costruire relazioni più efficaci, dalla sperimentazione di antiche pratiche utilizzate per millenni dalle sacerdotesse del passato all'attivismo nel mondo moderno.  
+Attualmente il per.corso si sviluppa nell'arco di un anno e parte ogni due anni, alternandosi con la Prima Spirale.
 
 Ulteriori informazioni saranno rese note con maggiori dettagli a chi deciderà di proseguire, una volta ultimato il primo per.corso sulla Ruota dell'Anno.
 

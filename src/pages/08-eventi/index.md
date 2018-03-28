@@ -15,7 +15,7 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
-Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra [**newsletter**](http://eepurl.com/dn1OzT)
+Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a href="http://eepurl.com/dn1OzT" target="_blank_">**newsletter**</a>
 
 <br/>
 

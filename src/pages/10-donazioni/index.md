@@ -39,4 +39,4 @@ TI RINGRAZIAMO CON TUTTO IL NOSTRO CUORE!
 
 <br/>
 
-Per saperne di più e capire meglio la nostra posizione puoi leggere l'articolo [**"Spiritualità e denaro"**](/spiritualità-e-denaro)
+Per saperne di più e capire meglio la nostra posizione puoi leggere l'articolo <a href="/spiritualità-e-denaro" target="_blank_">**"Spiritualità e denaro"**</a>

@@ -4,8 +4,10 @@ title: "Contatti"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
-La nostra pagina Facebook: https://www.facebook.com/deatrentino/
+La nostra pagina Facebook:  
+<a href="https://www.facebook.com/deatrentino/" target="_blank_">https://www.facebook.com/deatrentino/</a>
 
-La pagina del nostro crowdfunding: https://buonacausa.org/cause/tempiodellagrandemadre
+La pagina del nostro crowdfunding:  
+<a href="https://buonacausa.org/cause/tempiodellagrandemadre" target="_blank_">https://buonacausa.org/cause/tempiodellagrandemadre</a>
 
-[Iscriviti alla nostra newsletter](http://eepurl.com/dn1OzT)
+<a href="http://eepurl.com/dn1OzT" target="_blank_">Iscriviti alla nostra newsletter</a>

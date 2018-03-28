@@ -26,4 +26,4 @@ Suggeriamo, una volta ottenuta la tea-light, di "passare" la Fiamma a candele e 
 
 Per autosostenerci vendiamo anche delle candele più grandi, bicolore verde/azzurro e fatte per noi con metodi artigianali, al costo di 7 euro più spedizione. È possibile ottenere la Fiamma anche tramite queste candele.
 
-Per ulteriori informazioni [**contattaci**](/contatti)
+Per ulteriori informazioni <a href="/contatti" target="_blank_">**contattaci**</a>

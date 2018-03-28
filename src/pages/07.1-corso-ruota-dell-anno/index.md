@@ -16,8 +16,9 @@ L'ultimo incontro si svolgerà in un weekend residenziale e prevede una personal
 
 **Informazioni:**  
 Sono previsti momenti di studio individuale (preparatori agli incontri), momenti di confronto e scambio, momenti di attività esperienziali, momenti di celebrazione. Creeremo oggetti sacri, suoneremo, canteremo, viaggeremo in meditazione, danzeremo, condivideremo risate e lacrime, biscotti e tisane.  
-Ri-membreremo e ri-celebreremo alcuni archetipi del Divino Femminile, noteremo quali nomi sono stati associati a questi archetipi, riferendoci sia alla Ruota di Brigit-Ana (utilizzata presso il Tempio della Dea di Glastonbury) sia alle Dee e agli aspetti della Grande Madre che sono rilevabili nelle leggende del nostro territorio ([Ruota della Grande Madre delle Dolomiti](/ruota-dell-anno)).  
-**La frequenza è obbligatoria.** È richiesta la presenza agli incontri indicati in quanto il corso si sviluppa secondo un andamento progressivo, perdere una lezione significa perdere una parte integrante dell'insieme e la presenza è propedeutica anche alla creazione di un gruppo di lavoro e di un Cerchio di Pratica.  
+Ri-membreremo e ri-celebreremo alcuni archetipi del Divino Femminile, noteremo quali nomi sono stati associati a questi archetipi, riferendoci sia alla Ruota di Brigit-Ana (utilizzata presso il Tempio della Dea di Glastonbury) sia alle Dee e agli aspetti della Grande Madre che sono rilevabili nelle leggende del nostro territorio.  
+**La frequenza è obbligatoria.**  
+È richiesta la presenza agli incontri in quanto il corso si sviluppa secondo un andamento progressivo, perdere una lezione significa perdere una parte integrante dell'insieme e la presenza è propedeutica anche alla creazione di un gruppo di lavoro e di un Cerchio di Pratica.  
 Per la parte teorica il testo di riferimento è "Sacerdotessa di Avalon, Sacerdotessa della Dea" di Kathy Jones, Ester Edizioni (costo e reperimento a carico del/della partecipante).  
 La facilitatrice fornirà:  
 - Dispense, articoli o altro materiale teorico
@@ -28,24 +29,31 @@ La facilitatrice fornirà:
 <br/>
 
 **Costi:**  
-Un piccolo preambolo: nel nostro paese c'è molta resistenza rispetto alla possibilità che un per.corso che si presenta legato a qualche forma di spiritualità possa prevedere dei costi a carico dei partecipanti.  
+Un piccolo preambolo: nel nostro paese c'è molta resistenza rispetto alla possibilità che un percorso che si presenta legato a qualche forma di spiritualità possa prevedere dei costi a carico dei partecipanti.  
 È però importante tenere conto che ci sono dei costi di organizzazione, a volte anche importanti (affitto della sala, trasporti, acquisto materiali per attività, acquisto materiali per le celebrazioni, cibo e bevande messe a disposizione, volantini, tempo di progettazione).  
 In un mondo che domanda di essere pagato in denaro, non è possibile proporre gratuità senza che qualcuno (l'organizzazione) ne perda.  
-Inoltre, come Associazione di Promozione Sociale *Tempio della Grande Madre*, i corsi e per.corsi rappresentano il nostro modo principale per sostenerci: tutto il denaro ricavato verrà reinvestito in nuovi progetti connessi con gli scopi associativi. Il nostro obiettivo più grande è pervenire a una sede stabile da adibire a moderno Tempio della Grande Madre ove custodire la Fiamma della Grande Madre delle Dolomiti, riaccesa il 20 settembre 2015.
+Inoltre, come Associazione di Promozione Sociale *Tempio della Grande Madre*, i corsi e per.corsi rappresentano il nostro modo principale per sostenerci: tutto il denaro ricavato verrà reinvestito in nuovi progetti connessi con gli scopi associativi. Il nostro obiettivo più grande è pervenire a una sede stabile da adibire a moderno Tempio della Grande Madre dove custodire la Fiamma della Grande Madre delle Dolomiti, riaccesa il 20 settembre 2015.  
+(Per saperne di più e capire meglio la nostra posizione puoi leggere l'articolo <a href="/spiritualità-e-denaro" target="_blank_">"Spiritualità e denaro"</a>)
 
 **Il costo per l'anno 2018/2019 è di € 400 + tessera associativa di € 15.**  
-Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le spese extra (pranzi all'esterno, eventuali pernottamenti) e il materiale da portare (oggetti da cercare nella natura, stoffe, pennelli, nastri ecc.).
+Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le spese extra (pranzi all'esterno, eventuali pernottamenti) e il materiale da portare a ciascun incontro.
 
 <br/>
 
-**Al termine del per.corso** la/lo studentessa/studente potrà decidere se fermarsi o proseguire nelle spirali successive che si addentrano nel ruolo di moderna sacerdotessa della Grande Madre.
+**Al termine del per.corso** ogni partecipante potrà decidere se fermarsi o proseguire nella spirale successiva.
 
 **Facilitatrice:** Laura Ghianda, madre, Sacerdotessa di Avalon e Sacerdotessa della Dea formata presso il Tempio della Dea di Glastonbury, ricercatrice indipendente sui temi della Grande Dea e del sacro femminino. Artista poliedrica, è laureata in Scienze dell'Educazione ed è educatrice professionale. Co-fondatrice dell'Associazione di Promozione Sociale *Tempio della Grande Madre* e del cerchio di "Avalon Italia", è promottrice del progetto *Fiamma della Grande Madre delle Dolomiti*.
 
-Percorsi e attività gemellate in Italia:  
-+ Anna Bordin a Venezia  
-http://www.argiope.it/wordpress/  
-Maya Vassallo a Roma http://www.tempiodellagrandedea.com  
-Sarah Perini a Torino http://tempiodelladea.org/
-
 **Nota:** il percorso proposto non intende sostituirsi alla Prima Spirale della scuola del Tempio di Glastonbury, ne è una versione personalizzata e adattata al nostro contesto territoriale.
+
+<br/>
+
+Percorsi e attività gemellate in Italia:  
+Anna Bordin a Venezia  
+<a href="http://www.argiope.it/wordpress/" target="_blank_">http://www.argiope.it/wordpress/</a>
+
+Maya Vassallo a Roma  
+<a href="http://www.tempiodellagrandedea.com" target="_blank_">http://www.tempiodellagrandedea.com</a>
+
+Sarah Perini a Torino  
+<a href="http://tempiodelladea.org/" target="_blank_">http://tempiodelladea.org/</a>

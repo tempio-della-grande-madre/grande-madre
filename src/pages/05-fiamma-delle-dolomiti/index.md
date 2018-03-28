@@ -73,9 +73,9 @@ La Fiamma della Grande Madre delle Dolomiti è rappresentata da un dominante col
 Sembra che un colorito verde-azzurrognolo fosse anche tipico dei primi microrganismi batterici che colonizzarono la Terra all'inizio della storia della vita.  
 I colori della Fiamma sono riportati nel logo dell'associazione e verranno proposti anche come colori degli "spazi-tempio" che organizzeremo.
 
-Per leggere la [cronaca della cerimonia](http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html)
+Per leggere la <a href="http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html" target="_blank_">cronaca della cerimonia</a>
 
-Per leggere l'[invito all'accensione](http://lauraghianda.blogspot.it/2015/05/cerimonia-di-creazione-e-accensione.html)
+Per leggere <a href="http://lauraghianda.blogspot.it/2015/05/cerimonia-di-creazione-e-accensione.html" target="_blank_">l'invito all'accensione</a>
 
 Grazie di cuore a Denise Layla Paraboni (Tempio della Dea - Brianza) per le foto e per la digitalizzazione del logo dell'associazione!
 
@@ -87,6 +87,6 @@ Grazie di cuore a Denise Layla Paraboni (Tempio della Dea - Brianza) per le foto
 
 <br/>
 
-+ [Come avere la Fiamma](/come-avere-la-fiamma)
++ <a href="/come-avere-la-fiamma" target="_blank_">Come avere la Fiamma</a>
 
-+ [Lista delle realtà che hanno acceso la Fiamma](/realtà-acceso-fiamma)
++ <a href="/realtà-acceso-fiamma" target="_blank_">Lista delle realtà che hanno acceso la Fiamma</a>
