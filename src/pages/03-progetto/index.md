@@ -14,13 +14,13 @@ Vibra di qualcosa di antico e nuovo assieme, una potenza dimenticata, spaventosa
 Ad aprile del 2007 raggiunsi sulle stampelle Bride's Mound, un'antica collinetta alla periferia di Glastonbury, antico luogo di culto dedicato alla Dea Brigit – e quindi a Santa Brigida. Ancora oggi i pellegrini sono soliti recarvisi muniti di un nastro o un pezzo di tessuto (naturale!) da legare ai rami di un albero chiedendo a Brigit (o Santa Brigida) guarigione, guida o affidandole i propri desideri.  
 Si lega il tessuto, si lascia un'offerta (libagione o erbe o altro) e si pronuncia la frase in modo affermativo, coniugata al presente. Viste le condizioni non felici della mia gamba e il rischio di restare zoppa per il resto della mia vita, la prima offerta disse "guarisco e torno a camminare come prima".  
 Ma la seconda fu "apro un Tempio della Dea in Italia".  
-Una cosa detta d'istinto, di cuore, con un sacco di paura e di timore. Ancora non ero consapevole del nostro ruolo, come esseri umani, di co-creatrici/creatori, né del nostro potere di agire nel mondo. (Leggi articolo sul potere di noi tutte/i [qui](http://lauraghianda.blogspot.it/2014/03/la-freccia-di-diana-riflessione-sul.html)) Non sapevo nemmeno se sarebbe veramente accaduto!
+Una cosa detta d'istinto, di cuore, con un sacco di paura e di timore. Ancora non ero consapevole del nostro ruolo, come esseri umani, di co-creatrici/creatori, né del nostro potere di agire nel mondo. (Leggi articolo sul potere di noi tutte/i <a href="http://lauraghianda.blogspot.it/2014/03/la-freccia-di-diana-riflessione-sul.html" target="\_blank">qui</a>) Non sapevo nemmeno se sarebbe veramente accaduto!
 
 Da allora sono passati 10 anni e moltissime cose sono cambiate. Molto si è mosso. Altre persone in Italia hanno fatto esperienza di quel luogo-tempio, altre hanno concluso o cominciato la formazione alla sua scuola. Il sogno si è fatto collettivo. Abbiamo iniziato a collaborare, incontrarci, condividere idee, conoscenze, esperienze, mettendo in comune le nostre risorse.  
 Ciascuna di noi, lavorando nella sua realtà locale.
 
-Il sogno più ambizioso della nostra associazione è pervenire, nel tempo, alla possibilità di aprire una sede stabile da adibire a moderno "Tempio della Grande Madre", sul modello del [Glastonbury Goddess Temple](http://www.goddesstemple.co.uk) e del [Goddess Temple di Ashland](http://www.goddesstempleashland.com/) (USA), dove custodire la [Fiamma della Grande Madre delle Dolomiti](fiamma-delle-dolomiti), riaccesa cerimonialmente il 20 settembre 2015.
-A questo scopo raccoglieremo il denaro derivante dai corsi, per-corsi e nostre proposte, dalle donazioni e dal crowdfunding (se vuoi contribuire, questa è la nostra [pagina](https://buonacausa.org/cause/tempiodellagrandemadre)). Tutto quello che non verrà nel corso dell'anno re-investito in altri progetti secondo i fini dell"organizzazione, sarà messo da parte in un fondo per realizzare il nostro sogno.
+Il sogno più ambizioso della nostra associazione è pervenire, nel tempo, alla possibilità di aprire una sede stabile da adibire a moderno "Tempio della Grande Madre", sul modello del <a href="http://www.goddesstemple.co.uk" target="\_blank">Glastonbury Goddess Temple</a> e del <a href="http://www.goddesstempleashland.com/" target="\_blank">Goddess Temple di Ashland</a> (USA), dove custodire la [Fiamma della Grande Madre delle Dolomiti](fiamma-delle-dolomiti), riaccesa cerimonialmente il 20 settembre 2015.
+A questo scopo raccoglieremo il denaro derivante dai corsi, per-corsi e nostre proposte, dalle donazioni e dal crowdfunding (questa è la nostra <a href="https://buonacausa.org/cause/tempiodellagrandemadre" target="\_blank">pagina</a>). Tutto quello che non verrà nel corso dell'anno re-investito in altri progetti secondo i fini dell"organizzazione, sarà messo da parte in un fondo per realizzare il nostro sogno.
 
 Se vuoi contribuire a questo sogno e ai nostri progetti, anche con piccole donazioni, ti ringraziamo dal profondo del nostro cuore!
 
@@ -41,5 +41,5 @@ Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  render
 <br/>
 
 Per saperne di più:  
-Articolo "[Il sogno e la visione del Tempio della Grande Madre di Trento](http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html)"  
-Articolo "[Tempio coperto, tempio scoperto. Come è fuori, così è dentro. Tutto è sacro.](http://lauraghianda.blogspot.it/search?q=tempio+coperto)"
+<a href="http://lauraghianda.blogspot.it/2014/09/il-sogno-e-la-visione-del-trento.html" target="\_blank">"Il sogno e la visione del Tempio della Grande Madre di Trento"</a>   
+<a href="http://lauraghianda.blogspot.it/search?q=tempio+coperto" target="\_blank">"Tempio coperto, tempio scoperto. Come è fuori, così è dentro. Tutto è sacro."</a>

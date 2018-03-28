@@ -12,7 +12,7 @@ Dal 2006 al 2012 ha studiato presso il Glastonbury Goddess Temple dedicandosi co
 Artista poliedrica, educatrice professionale e libera ricercatrice sul Sacro Femminino e i suoi archetipi, facilita i cerchi di apprendimento della "Ruota dell'Anno" e de "Il cammino della moderna sacerdotessa della Grande Madre", ispirati alla tradizione di Avalon/Glastonbury ma adattati al contesto territoriale, inoltre si occupa di spiritualità legata alla montagna.  
 È promotrice del progetto "Fiamma della Grande Madre delle Dolomiti".  
 Vive e lavora in provincia di Trento come educatrice.  
-Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino, per accedere clicca [qui](http://lauraghianda.blogspot.it/).
+Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino, per accedere clicca <a href="http://lauraghianda.blogspot.it/" target="\_blank">qui</a>.
 
 <br/>
 
