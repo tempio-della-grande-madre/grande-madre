@@ -94,7 +94,7 @@ Queste figure, presentate come Regine, Sante, Dee o semidee, sembra premino per 
 
 Ciascun incontro del per.corso ha visto una o più di queste figure come protagoniste. Ne abbiamo riletto le storie, analizzato i possibili simboli di una cultura androcentrica affibbiati nelle varie riscritture (o il modo in cui la religione successiva le ha assorbite), cercato il simbolismo relativo a un sacro femminino che a volte è evidente al primo sguardo, altre volte meno e richiede lavoro. La comparazione con altre mitologie sacre e l'analisi presentata da Kathy Jones in questo senso possono definirsi come linee guida.  
 Ogni incontro è avvenuto alla luce di una sua fiamma, dedicata a uno di questi aspetti di Dee Dolomitiche. La fiamma via a via che trascorreva l'anno si arricchiva di nuovi aspetti e nuove leggende fino all'ultimo incontro, avvenuto il 19 settembre 2015, dedicato alla Terra e al radicarsi: lo abbiamo celebrato radicando la Ruota della Grande Madre delle Dolomiti cerimonialmente.  
-La Fiamma del Cerchio appena concluso, rappresentante la nostra viva Ruota locale, è diventata matrice per l'accensione della [Fiamma della Grande Madre delle Dolomiti](/fiamma-delle-dolomiti), con la [pubblica cerimonia](http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html) avvenuta il 20 settembre 2015.
+La Fiamma del Cerchio appena concluso, rappresentante la nostra viva Ruota locale, è diventata matrice per l'accensione della [Fiamma della Grande Madre delle Dolomiti](/fiamma-delle-dolomiti), con la [cerimonia pubblica](http://lauraghianda.blogspot.it/2015/10/fiamma-della-grande-madre-delle.html) avvenuta il 20 settembre 2015.
 
 <br/>
 

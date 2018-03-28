@@ -43,7 +43,8 @@ Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le 
 **Facilitatrice:** Laura Ghianda, madre, Sacerdotessa di Avalon e Sacerdotessa della Dea formata presso il Tempio della Dea di Glastonbury, ricercatrice indipendente sui temi della Grande Dea e del sacro femminino. Artista poliedrica, è laureata in Scienze dell'Educazione ed è educatrice professionale. Co-fondatrice dell'Associazione di Promozione Sociale *Tempio della Grande Madre* e del cerchio di "Avalon Italia", è promottrice del progetto *Fiamma della Grande Madre delle Dolomiti*.
 
 Percorsi e attività gemellate in Italia:  
-Anna Bordin a Venezia http://www.argiope.it/wordpress/  
++ Anna Bordin a Venezia  
+http://www.argiope.it/wordpress/  
 Maya Vassallo a Roma http://www.tempiodellagrandedea.com  
 Sarah Perini a Torino http://tempiodelladea.org/
 
