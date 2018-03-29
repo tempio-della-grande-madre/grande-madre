@@ -12,17 +12,13 @@ Il denaro serve a coprire le molte spese associative, gli affitti delle sale, la
 
 **Vuoi aiutarci?**
 
-Condividi le nostre visioni? Ti piacciono i nostri progetti? Ti piacerebbe che ci fosse un tempio a disposizione di tutte/i anche nella nostra area?  
-Anche piccolissime donazioni ci aiutano, perché tante piccole donazioni possono farne una grossa!  
+Condividi le nostre visioni? Ti piacciono i nostri progetti? Ti piacerebbe che ci fosse un tempio a disposizione di tutte/i anche nella nostra area? Ecco come puoi contribuire:
 
-Puoi anche devolvere il tuo 5 per Mille dalla dichiarazione dei redditi (a te non costa nulla ma per noi vale tantissimo!), basta indicare il nostro codice fiscale nell'apposito campo del modello 730: 90017350225.  
-Oppure diventare socio/a e partecipare ai nostri eventi.
-
-Ma puoi aiutare anche mettendo a disposizione dell'associazione i tuoi talenti!  
-In futuro potremmo aver bisogno di manutentori, elettricisti, muratori, carpentieri e altre figure.
-
-Se invece hai una vecchia sala, cantina, stanza grande o qualsiasi locale inutilizzato dotato di minimi standard igienici, forse ti piacerebbe dargli un senso e "prestarcelo" (comodato d'uso o affitto simbolico): sappi che stiamo cercando uno spazio da adibire a "Tempio della Grande Madre", sede della nostra associazione possibilmente non troppo lontana dalla città/paesi limitrofi. Anche a tempo determinato!  
-Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro".  
++ Puoi diventare socio/a e partecipare ai nostri eventi
++ Puoi devolvere il tuo 5 per Mille dalla dichiarazione dei redditi (a te non costa nulla ma per noi vale tantissimo!), basta indicare il nostro codice fiscale nell'apposito campo del modello 730: **90017350225**   
++ Puoi aiutare anche mettendo a disposizione dell'associazione i tuoi talenti: in futuro potremmo aver bisogno di manutentori, elettricisti, muratori, carpentieri e altre figure
++ Se hai una vecchia sala, cantina, stanza grande o qualsiasi locale inutilizzato dotato di minimi standard igienici, forse ti piacerebbe dargli un senso e "prestarcelo" (comodato d'uso o affitto simbolico); infatti stiamo cercando uno spazio da adibire a "Tempio della Grande Madre", sede della nostra associazione possibilmente non troppo lontana dalla città/paesi limitrofi. Anche a tempo determinato! Ce ne prenderemo cura, lo addobberemo, lo terremo pulito, profumato e lo  renderemo "spazio sacro"
++ Puoi cliccare sul pulsante qui sotto e fare una donazione, anche piccole offerte ci aiutano, perché tante piccole donazioni possono farne una grossa!
 
 <br/>
 

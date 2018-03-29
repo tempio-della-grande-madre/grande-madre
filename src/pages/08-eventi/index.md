@@ -1,6 +1,6 @@
 ---
 path: "/eventi"
-title: "Eventi - Celebrazioni - Seminari"
+title: "Eventi"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
@@ -11,7 +11,7 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 + handfasting e matrimoni
 + funerali
 + separazioni
-+ riti di passaggio.  
++ riti di passaggio
 
 <br/>
 
