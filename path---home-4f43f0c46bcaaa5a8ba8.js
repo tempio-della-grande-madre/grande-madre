@@ -1,0 +1,2 @@
+webpackJsonp([0x66a4600063f3],{275:function(t,a){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/papaveri.alpi.jpg">\n</p>\n<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/camminata2giugno.jpg">\n</p>',frontmatter:{path:"/home",title:""}}},pathContext:{}}}});
+//# sourceMappingURL=path---home-4f43f0c46bcaaa5a8ba8.js.map
