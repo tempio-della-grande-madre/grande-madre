@@ -81,12 +81,12 @@ Grazie di cuore a Denise Layla Paraboni (Tempio della Dea - Brianza) per le foto
 
 <br/>
 
-<p align="center">
-  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/gruppo-fiamma.jpg">
-</p>
-
-<br/>
-
 + <a href="/come-avere-la-fiamma" target="_blank_">Come avere la Fiamma</a>
 
 + <a href="/realtà-acceso-fiamma" target="_blank_">Lista delle realtà che hanno acceso la Fiamma</a>
+
+<br/>
+
+<p align="center">
+  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/gruppo-fiamma.jpg">
+</p>

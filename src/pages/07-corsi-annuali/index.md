@@ -9,5 +9,5 @@ date: "2018-01-22T22:01:06.037Z"
 Per.corso teorico ed esperienziale di avvicinamento allo strumento della Ruota dell'Anno, nell'ambito della Spiritualità della Grande Madre.
 
 + **Seconda Spirale:**  
-<a href="/corso-seconda-spirale" target="_blank_">**Il cammino della moderna sacerdotessa della Grande Madre**</a>  
+<a href="/corso-seconda-spirale" target="_blank_">**In cammino con la Dea - Moderne pratiche sacerdotali**</a>  
 Per.corso teorico ed esperienziale che si addentra nei principi e nelle pratiche della Sacerdotessa moderna, riservato a chi ha completato con successo il per.corso sulla Ruota dell'Anno.
