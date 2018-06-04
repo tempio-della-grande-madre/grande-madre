@@ -20,7 +20,7 @@ Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a
 <br/>
 
 <p align="center">
-  <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/camminata2giugno.jpg">
+  <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/litha-2018.jpg">
 </p>
 
 <br/>

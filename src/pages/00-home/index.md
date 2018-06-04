@@ -6,11 +6,11 @@ date: "2018-01-22T22:01:06.037Z"
 <br/>
 
 <p align="center">
-  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/papaveri.alpi.jpg">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/lago-di-carezza.jpg">
 </p>
 
 <br/>
 
 <p align="center">
-  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/camminata2giugno.jpg">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/litha-2018.jpg">
 </p>
