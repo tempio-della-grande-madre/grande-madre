@@ -4,6 +4,8 @@ title: "Contatti"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
+Mail: tempiodellagrandemadre@gmail.com
+
 La nostra pagina Facebook:  
 <a href="https://www.facebook.com/deatrentino/" target="_blank_">https://www.facebook.com/deatrentino/</a>
 
