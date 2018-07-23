@@ -1,0 +1,2 @@
+webpackJsonp([0x66a4600063f3],{285:function(t,a){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/cervo-lammas.jpg">\n</p>\n<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/iscrizioni-ruotadellanno.jpg">\n</p>',frontmatter:{path:"/home",title:""}}},pathContext:{}}}});
+//# sourceMappingURL=path---home-a84cb0a40be9c468c872.js.map
