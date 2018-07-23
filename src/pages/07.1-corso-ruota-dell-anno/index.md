@@ -4,8 +4,8 @@ title: "Conoscere e vivere la Ruota dell'Anno"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
-<p align="left">
-  <img style='width:30%;' border="0" alt="testo sopra" src="/media/photos/ruota-wendy-andrew.jpg">
+<p align="center">
+  <img style='width:60%;' border="0" alt="testo sopra" src="/media/photos/ruota-wendy-andrew.jpg">
 </p>
 
 La Ruota dell'Anno è molto più di un calendario che segna il passaggio delle stagioni, è metafora dell'intera esistenza, è una bussola che guida al riconoscimento di una sacralità dimenticata e al ri-allineamento con essa: quella che è nei nostri corpi, nelle nostre idee, nelle nostre esperienze, nelle nostre azioni, nella fantastica natura in cui viviamo, nel nostro essere parte dell'Universo. Qui. Ora.
@@ -66,8 +66,8 @@ Non saranno rimborsati i costi (quantificati in 40 euro) degli incontri effettiv
 
 <br/>
 
-<p align="left">
-  <img style='width:30%;' border="0" alt="testo sopra" src="/media/photos/labirinto.jpg">
+<p align="center">
+  <img style='width:60%;' border="0" alt="testo sopra" src="/media/photos/labirinto.jpg">
 </p>
 
 <br/>
@@ -98,8 +98,8 @@ L’ultimo incontro e la cerimonia di dedicazione si svolgeranno presso luogo da
 
 <br/>
 
-<p align="left">
-  <img style='width:30%;' border="0" alt="testo sopra" src="/media/photos/altare-aria.jpg">
+<p align="center">
+  <img style='width:60%;' border="0" alt="testo sopra" src="/media/photos/altare-aria.jpg">
 </p>
 
 <br/>
