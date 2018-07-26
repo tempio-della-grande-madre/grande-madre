@@ -13,15 +13,16 @@ Il tempio offre una scuola ufficiale di formazione alla spiritualità della Dea 
 <a href="http://www.goddesstemple.co.uk" target="_blank_">http://www.goddesstemple.co.uk</a>  
 <a href="http://www.goddesstempleteachings.co.uk" target="_blank_">http://www.goddesstempleteachings.co.uk</a>
 
-Kathy Jones  
+***Kathy Jones***  
 <a href="http://www.kathyjones.co.uk/" target="_blank_">http://www.kathyjones.co.uk/</a>
 
-Erin Mc Cauliff
+***Erin Mc Cauliff***  
+Tutor al Glastonbury Goddess Temple
 
-Katinka Soetens e la sessualità sacra  
+***Katinka Soetens e la sessualità sacra***  
 <a href="http://www.herpathoflove.com" target="_blank_">http://www.herpathoflove.com</a>
 
-Marion Brigantia van Eupen  
+***Marion Brigantia van Eupen***  
 <a href="https://marionvaneupen.wixsite.com/priestessing-for-you" target="_blank_">https://marionvaneupen.wixsite.com/priestessing-for-you</a>
 
 <br/>

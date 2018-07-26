@@ -42,7 +42,8 @@ Inoltre, come Associazione di Promozione Sociale *Tempio della Grande Madre*, i 
 **Il costo per l'anno 2018/2019 è di € 400 + tessera associativa di € 15.**  
 Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le spese extra (pranzi all'esterno, eventuali pernottamenti) e il materiale da portare a ciascun incontro.
 
-**LE ISCRIZIONI SONO OBBLIGATORIE ENTRO VENERDÌ 12 OTTOBRE 2018** (email: tempiodellagrandemadre@gmail.com)
+**LE ISCRIZIONI SONO OBBLIGATORIE ENTRO VENERDÌ 12 OTTOBRE 2018**  
+(email: tempiodellagrandemadre@gmail.com)
 
 Metodo di pagamento: caparra non rimborsabile di € 100 entro il termine iscrizioni, saldo entro il 23 dicembre 2018.  
 Gli estremi per la caparra sono comunicati privatamente, alla compilazione del modulo di iscrizione.
@@ -93,7 +94,7 @@ Il percorso partirà con un numero minimo di 5 iscritte/i. 20 posti disponibili.
 
 **Dove:**
 Gli incontri 1, 2, 3 e 4 presso associazione “I guardiani della Terra", via Grazioli 63, Trento.  
-Gli incontri 5, 6 e 7 saranno possibilmente svolti all’aperto, sul territorio, tra le provincie di Trento e Bolzano.  
+Gli incontri 5, 6 e 7 saranno possibilmente svolti all’aperto, sul territorio, tra le province di Trento e Bolzano.  
 L’ultimo incontro e la cerimonia di dedicazione si svolgeranno presso luogo da confermare e prevedono il pernottamento (eventuale costo pernottamento e pasti a carico del partecipante).
 
 <br/>
