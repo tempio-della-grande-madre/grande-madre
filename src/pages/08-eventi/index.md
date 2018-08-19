@@ -28,3 +28,9 @@ Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a
 <p align="center">
   <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/celebrazioni-2017-2018.jpg">
 </p>
+
+<br/>
+
+<p align="center">
+  <img style='width:90%;' border="0" alt="testo sopra" src="/media/photos/grande-madre-5-ottobre.jpg">
+</p>
