@@ -1,0 +1,2 @@
+webpackJsonp([0x66a4600063f3],{285:function(t,e){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/dolomiti-autunno.jpg">\n</p>\n<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/conferenza-vicenza-novembre.jpg">\n</p>',frontmatter:{path:"/home",title:""}}},pathContext:{}}}});
+//# sourceMappingURL=path---home-55eeb7f571af14a7f35e.js.map
