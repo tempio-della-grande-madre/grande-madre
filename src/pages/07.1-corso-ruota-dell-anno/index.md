@@ -39,14 +39,8 @@ In un mondo che domanda di essere pagato in denaro, non è possibile proporre gr
 Inoltre, come Associazione di Promozione Sociale *Tempio della Grande Madre*, i corsi e per.corsi rappresentano il nostro modo principale per sostenerci: tutto il denaro ricavato verrà reinvestito in nuovi progetti connessi con gli scopi associativi. Il nostro obiettivo più grande è pervenire a una sede stabile da adibire a moderno Tempio della Grande Madre dove custodire la Fiamma della Grande Madre delle Dolomiti, riaccesa il 20 settembre 2015.  
 (Per saperne di più e capire meglio la nostra posizione puoi leggere l'articolo <a href="/spiritualità-e-denaro" target="_blank_">"Spiritualità e denaro"</a>)
 
-**Il costo per l'anno 2018/2019 è di € 400 + tessera associativa di € 15.**  
+**Il costo è di € 400 + tessera associativa di € 15.**  
 Si considerano esclulsi da questa cifra l'acquisto del testo di Kathy Jones, le spese extra (pranzi all'esterno, eventuali pernottamenti) e il materiale da portare a ciascun incontro.
-
-**LE ISCRIZIONI SONO OBBLIGATORIE ENTRO VENERDÌ 12 OTTOBRE 2018**  
-(email: tempiodellagrandemadre@gmail.com)
-
-Metodo di pagamento: caparra non rimborsabile di € 100 entro il termine iscrizioni, saldo entro il 23 dicembre 2018.  
-Gli estremi per la caparra sono comunicati privatamente, alla compilazione del modulo di iscrizione.
 
 **Abbandonare il per.corso:**  
 Occasionalmente accade che un/a partecipante decida di lasciare il per.corso per motivi personali.
@@ -67,35 +61,15 @@ Non saranno rimborsati i costi (quantificati in 40 euro) degli incontri effettiv
 
 <br/>
 
+<p align="center"><strong>
+Per l'anno 2018/2019 il per.corso è stato sospeso, verrà riproposto a partire da ottobre/novembre 2019
+</strong></p>
+
+<br/>
+
 <p align="center">
   <img style='width:60%;' border="0" alt="testo sopra" src="/media/photos/labirinto.jpg">
 </p>
-
-<br/>
-
-**Quando:**
-1. Domenica 11 novembre 2018: Ognissanti, la Decadenza. Introduzione sugli aspetti generali della Ruota dell’Anno e aspetto archetipico della Vecchia o Crona, archetipo della Morte, Rigenerazione e Rinascita.
-2. Domenica 23 dicembre 2018: Solstizio d'Inverno. Dedicato alla Signora dell’elemento Aria e al nuovo ciclo solare.
-3. Domenica 3 febbraio 2019: Candelora, il Risveglio. Dedicato all’aspetto archetipico della Bambina/Fanciulla.
-4. Domenica 17 marzo 2019: Equinozio di Primavera. Dedicato alla Signora dell’elemento Fuoco e al nuovo inizio.
-5. Domenica 5 maggio 2019: Calendimaggio, la Fioritura. Dedicato all’aspetto archetipico dell’Amante e alla festa di Beltane.
-6. Domenica 23 giugno 2019: Solstizio d'Estate. Dedicato alla Signora dell’elemento Acqua e alla pienezza.
-7. Domenica 4 luglio 2019: L'abbondanza. Dedicato all’aspetto archetipico della Madre.
-8. Sabato/Domenica 15/16 settembre 2019: Equinozio d'Autunno. Dedicato alla Signora dell’elemento Terra e al Centro della Ruota, che rappresenta la totalità degli aspetti. Nella sera di sabato si svolgerà, per coloro che lo desiderano, una personale cerimonia di dedicazione alla Grande Madre.
-
-Orari: dalle 10.00 alle 18.00 circa, piccola pausa pranzo nel mezzo.  
-Date e orari possono subire alcune modifiche che verranno eventualmente comunicate.
-
-
-
-Il percorso partirà con un numero minimo di 5 iscritte/i. 20 posti disponibili.
-
-<br/>
-
-**Dove:**
-Gli incontri 1, 2, 3 e 4 presso associazione “I guardiani della Terra", via Grazioli 63, Trento.  
-Gli incontri 5, 6 e 7 saranno possibilmente svolti all’aperto, sul territorio, tra le province di Trento e Bolzano.  
-L’ultimo incontro e la cerimonia di dedicazione si svolgeranno presso luogo da confermare e prevedono il pernottamento (eventuale costo pernottamento e pasti a carico del partecipante).
 
 <br/>
 
