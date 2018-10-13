@@ -55,7 +55,7 @@ Non saranno rimborsati i costi (quantificati in 40 euro) degli incontri effettiv
 
 **Al termine del per.corso** ogni partecipante potrà decidere se fermarsi o proseguire nella spirale successiva.
 
-**Facilitatrice:** Laura Ghianda, madre, Sacerdotessa di Avalon e Sacerdotessa della Dea formata presso il Tempio della Dea di Glastonbury, ricercatrice indipendente sui temi della Grande Dea e del sacro femminino. Artista poliedrica, è laureata in Scienze dell'Educazione ed è educatrice professionale. Co-fondatrice dell'Associazione di Promozione Sociale *Tempio della Grande Madre* e del cerchio di "Avalon Italia", è promottrice del progetto *Fiamma della Grande Madre delle Dolomiti*.
+**Facilitatrice:** Laura Ghianda, madre, Sacerdotessa di Avalon e Sacerdotessa della Dea formata presso il Tempio della Dea di Glastonbury, ricercatrice indipendente sui temi della Grande Dea e del sacro femminino. Artista poliedrica, è laureata in Scienze dell'Educazione ed è educatrice professionale. Co-fondatrice dell'Associazione di Promozione Sociale *Tempio della Grande Madre* e del cerchio di "Avalon Italia", è promotrice del progetto *Fiamma della Grande Madre delle Dolomiti*.
 
 **Nota:** il percorso proposto non intende sostituirsi alla Prima Spirale della scuola del Tempio di Glastonbury, ne è una versione personalizzata e adattata al nostro contesto territoriale.
 
