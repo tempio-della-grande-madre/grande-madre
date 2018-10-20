@@ -37,8 +37,8 @@ module.exports = {
         'name': siteTitle,
         'description': siteTitle,
         'short_name': siteTitle,
-        'background_color': '#DD994A',
-        'theme_color': '#DD994A',
+        'background_color': '#75798A',
+        'theme_color': '#75798A',
         'orientation': 'portrait',
         'display': 'minimal-ui'
       }
