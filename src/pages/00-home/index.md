@@ -11,6 +11,9 @@ date: "2018-01-22T22:01:06.037Z"
 
 <br/>
 
+<span align="center">
+
+
 *Io sono l’aria  
 che gelida gioca tra le cime innevate,  
 sono il vento impetuoso  
@@ -36,3 +39,5 @@ permettimi di liberarti dai pesi che ti opprimono,
 librati con me nell’immenso firmamento dei tuoi sogni.*
 
 Shar  
+
+</span>
