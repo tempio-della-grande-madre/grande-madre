@@ -1,0 +1,2 @@
+webpackJsonp([0x66a4600063f3],{285:function(t,e){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/bucaneve.png">\n</p>',frontmatter:{path:"/home",title:""}}},pathContext:{}}}});
+//# sourceMappingURL=path---home-4de49d13b8ba928774b0.js.map
