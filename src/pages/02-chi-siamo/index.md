@@ -7,12 +7,8 @@ date: "2018-01-22T22:01:06.037Z"
 **Presidentessa**  
 Laura Ghianda
 
-Co-Fondatrice del Cerchio Italiano di Avalon (di ispirazione al Glastonbury Goddess Temple, in Inghilterra), attualmente studia con Katinka Soetens in un percorso biennale riguardante il corpo e la sessualità sacra.  
-Dal 2006 al 2012 ha studiato presso il Glastonbury Goddess Temple dedicandosi come Sacerdotessa della Dea e di Avalon.  
-Artista poliedrica, educatrice professionale e libera ricercatrice sul Sacro Femminino e i suoi archetipi, facilita i cerchi di apprendimento della "Ruota dell'Anno" e de "Il cammino della moderna sacerdotessa della Grande Madre", ispirati alla tradizione di Avalon/Glastonbury ma adattati al contesto territoriale, inoltre si occupa di spiritualità legata alla montagna.  
-È promotrice del progetto "Fiamma della Grande Madre delle Dolomiti".  
-Vive e lavora in provincia di Trento come educatrice.  
-Tiene un blog di "tealogia", spiritualità e argomenti legati al sacro femminino, per accedere clicca <a href="http://lauraghianda.blogspot.it/" target="_blank_">qui</a>.
+Nata a Venezia, si trasferisce nel cuneese prima e in provincia di Trento poi per amore della montagna. Laureata con lode in Scienze dell'Educazione, formatasi presso il Glastonbuy Goddess Temple in Inghilterra, ente riconosciuto ufficialmente dal Governo Inglese, è co-fondatrice dell'a.p.s. "Tempio della Grande Madre" che opera principalmente nell'area delle Dolomiti. È funzionaria pedagogica, madre, artista poliedrica. Libera ricercatrice sui temi della *Grande Madre*, delle antiche e attuali società in equilibrio tra i generi e sul simbolismo di miti e leggende. Propone percorsi annuali sulla Ruota del'Anno come strumento di ri-narrazione del mondo e di sé, e si occupa con passione di spiritualità e simbolismo legati alla montagna.  
+Il suo ARTivismo (attivismo sociale e artistico) è vissuto come contributo personale al divenire di una Creazione considerata sempre in corso e non data "una volta per tutte all'inizio dei tempi".
 
 <br/>
 
@@ -28,7 +24,7 @@ Decisamente illuminanti son stati per me testi quali "Il linguaggio della Dea" d
 Sara Shar Zambon
 
 Laureata in archeologia, appassionata di lettura e scrittura, da sempre interessata alla dimensione religiosa e spirituale, soprattutto per quanto riguarda mitologia classica e culture antiche.  
-Ho iniziato il mio percorso alla scoperta della Dea nell'ottobre 2014, concludendo la prima spirale a settembre 2015 con la dedicazione come Figlia della Grande Madre. Sto proseguendo il mio cammino di conoscenza e ri-scoperta interiore assieme a un gruppo di ragazze che sono diventate come vere sorelle, tra cui alcune di quelle con cui mi sono dedicata. Una grossa e fondamentale spinta in questo senso mi è stata data dalla mia gravidanza e dal mio parto, che ho vissuto come una concreta rinascita di me stessa nel dare alla luce mia figlia, un radicamento nella Terra Madre diventando madre io stessa, cancello per il passaggio di una nuova vita. Questa esperienza mi ha regalato una nuova e inaspettata consapevolezza e ha risvegliato un ancor più vivo desiderio di immergermi nella realtà spirituale del Sacro Femminino.
+Mi sono avvicinata alla Dea nel 2014 con il percorso sulla Ruota dell'Anno proposto da Laura Ghianda e sto proseguendo il mio cammino di conoscenza e ri-scoperta interiore assieme ad alcune delle ragazze che ho conosciuto durante i vari incontri. Una grossa e fondamentale spinta in questo senso mi è stata data dalla mia prima gravidanza e dal mio parto, che ho vissuto come una concreta rinascita di me stessa nel dare alla luce mia figlia, un radicamento nella Terra Madre diventando madre io stessa, cancello per il passaggio di una nuova vita. Questa esperienza mi ha regalato una nuova e inaspettata consapevolezza e ha risvegliato un ancor più vivo desiderio di immergermi nella realtà spirituale del Sacro Femminino.
 
 <br/>
 
@@ -44,7 +40,7 @@ Dedicata come Figlia della Grande Madre e come Guardiana della Fiamma della Gran
 **Consigliera**  
 Silvia Fassan
 
-Sono Silvia Fassan, Ennona dopo la mia dedicazione come figlia della Grande Madre. Alla Dea dedico la mia passione che è la danza che pratico come strumento di risveglio della consapevolezza femminile. Ho studiato fin da ragazza la danza nei vari stili dal classico al moderno, dall'africano all'indiano. Dal 2003 la mia passione è diventata la danza orientale tradizionale egiziana, Hilal dance, tribal, gypsy e creativa che continuo a praticare. Ho intrapreso nel 2015 lo studio delle artiterapie conseguendo un master annuale e mi accingo a completare il diploma in danzamovimentoterapia.
+Sono Silvia Fassan, Ennona dopo la mia dedicazione come figlia della Grande Madre. Alla Dea dedico la mia passione che è la danza che pratico come strumento di risveglio della consapevolezza femminile. Ho studiato fin da ragazza la danza nei vari stili dal classico al moderno, dall'africano all'indiano. Dal 2003 la mia passione è diventata la danza orientale tradizionale egiziana, tribal, gypsy e creativa che continuo a praticare. Ho intrapreso nel 2015 lo studio delle artiterapie conseguendo un master annuale e mi accingo a completare il diploma in danzamovimentoterapia.
 
 <br/>
 
