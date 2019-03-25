@@ -15,4 +15,10 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
+<p align="center">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/locandina.creta.jpg">
+</p>
+
+<br/>
+
 Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a href="http://eepurl.com/dn1OzT" target="_blank_">**newsletter**</a>
