@@ -21,7 +21,7 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
-<p align="center"><strong>
+<p align="center" style="color:#105515"><strong>
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">

@@ -23,7 +23,7 @@ date: "2018-01-22T22:01:06.037Z"
 
 <br/>
 
-<p align="center"><strong>
+<p align="center" style="color:#105515"><strong>
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">
