@@ -27,5 +27,5 @@ date: "2018-01-22T22:01:06.037Z"
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">
-<a href="https://buonacausa.org/cause/progettocreta" target="_blank_"><img src="/media/photos/buonacausa.dona.gif" alt="tempio della grande madre">
+<a href="https://buonacausa.org/cause/progettocreta" target="_blank_"><img style='width:30%;' border="0" alt="testo sopra" src="/media/photos/buonacausa.dona.gif">
 </a></p>
