@@ -25,10 +25,8 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">
-<a href="https://buonacausa.org/cause/progettocreta">
-    <img src="/media/photos/buonacausa.dona.gif" alt="tempio della grande madre">
-  </a>
-</p>
+<a href="https://buonacausa.org/cause/progettocreta" target="_blank_"><img src="/media/photos/buonacausa.dona.gif" alt="tempio della grande madre">
+</a></p>
 
 <br/>
 
