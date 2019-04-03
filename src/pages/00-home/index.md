@@ -18,7 +18,7 @@ date: "2018-01-22T22:01:06.037Z"
 <br/>
 
 <p align="center">
-  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/creta.marzo2019.png">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/locandina.creta.jpg">
 </p>
 
 <br/>
