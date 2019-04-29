@@ -13,7 +13,7 @@ Ruote si trovano un po' ovunque nel mondo, riferite a culture antiche ma anche a
 
 <br/>
 
-<p>
+<p align="center">
   <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-wendy-andrew.jpg">
 </p>
 
@@ -60,7 +60,7 @@ Per saperne di più invito la lettura dei testi, entrambi di Kathy Jones: "Cammi
 
 <br/>
 
-<p>
+<p align="center">
   <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-semplice.jpg">
 </p>
 
@@ -76,7 +76,7 @@ Peculiarità di questo cammino è la restituzione a ogni singola persona dell'es
 
 <br/>
 
-<p>
+<p align="center">
   <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/ruota-di-brigit.jpg">
 </p>
 

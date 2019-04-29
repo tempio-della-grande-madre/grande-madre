@@ -16,12 +16,18 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 <br/>
 
 <p align="center">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/beltane-2019.jpg">
+</p>
+
+<br/>
+
+<p align="center">
   <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/locandina.creta.jpg">
 </p>
 
 <br/>
 
-<p align="center" style="color:#105515"><strong>
+<p align="center" style="color:#9E0000"><strong>
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">
