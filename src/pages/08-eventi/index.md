@@ -16,12 +16,6 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 <br/>
 
 <p align="center">
-  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/litha-2019.jpg">
-</p>
-
-<br/>
-
-<p align="center">
   <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/locandina.creta.jpg">
 </p>
 
