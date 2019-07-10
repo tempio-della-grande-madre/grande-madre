@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{286:function(t,a){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/lago-di-carezza.jpg">\n</p>\n<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/labirinto-agosto2019.jpg">\n</p>',frontmatter:{title:"",path:"/home"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-09cf3a22f65720ae9333.js.map
