@@ -15,13 +15,17 @@ Organizziamo anche celebrazioni private (tramite offerta) per ogni occasione vog
 
 <br/>
 
+Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a href="http://eepurl.com/dn1OzT" target="_blank_">**newsletter**</a>
+
+<br/>
+
 <p align="center">
   <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/locandina.creta.jpg">
 </p>
 
 <br/>
 
-<p align="center" style="color:#9E0000"><strong>
+<p align="center"><strong>
 Per sostenere questo progetto puoi fare una donazione cliccando qui
 </strong></p>  
 <p align="center">
@@ -30,4 +34,6 @@ Per sostenere questo progetto puoi fare una donazione cliccando qui
 
 <br/>
 
-Se vuoi avere puntuali aggiornamenti sui nostri eventi, iscriviti alla nostra <a href="http://eepurl.com/dn1OzT" target="_blank_">**newsletter**</a>
+<p align="center">
+  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/labirinto-settembre2019.jpg">
+</p>
