@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{286:function(t,o){t.exports={data:{markdownRemark:{html:'<br/>\n<p align="center">\n  <img style=\'width:80%;\' border="0" alt="testo sopra" src="/media/photos/dolomiti-autunno.jpg">\n</p>',frontmatter:{title:"",path:"/home"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-d00215cbcdd4306e9d23.js.map
