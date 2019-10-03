@@ -31,9 +31,3 @@ Per sostenere questo progetto puoi fare una donazione cliccando qui
 <p align="center">
 <a href="https://buonacausa.org/cause/progettocreta" target="_blank_"><img style='width:30%;' border="0" alt="testo sopra" src="/media/photos/buonacausa.dona.gif" alt="tempio della grande madre">
 </a></p>
-
-<br/>
-
-<p align="center">
-  <img style='width:80%;' border="0" alt="testo sopra" src="/media/photos/labirinto-settembre2019.jpg">
-</p>
