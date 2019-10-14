@@ -8,7 +8,7 @@ date: "2018-01-22T22:01:06.037Z"
 <br/>
 
 La Ruota dell'Anno può a ragione considerarsi la base di partenza di ogni nostra attività.  
-Si tratta di uno strumento formidabile, una "bussola" che orienta il processo di ri-sacralizzazione della realtà in tutti i suoi aspetti.  
+Si tratta di uno strumento formidabile, una "bussola" che orienta il processo di ri-narrazione e ri-sacralizzazione della realtà in tutti i suoi aspetti.  
 Ruote si trovano un po' ovunque nel mondo, riferite a culture antiche ma anche attuali. Non ne esiste un'unica versione. È quindi importante inquadrare questo nostro strumento di lavoro per il modo in cui lo approcciamo qui e ora.
 
 <br/>

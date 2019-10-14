@@ -12,7 +12,7 @@ Il denaro serve a coprire le molte spese associative, gli affitti delle sale, la
 
 **Vuoi aiutarci?**
 
-Condividi le nostre visioni? Ti piacciono i nostri progetti? Ti piacerebbe che ci fosse un tempio a disposizione di tutte/i anche nella nostra area? Ecco come puoi contribuire:
+Condividi le nostre visioni? Ti piacciono i nostri progetti? Ti piacerebbe che ci fosse uno spazio-tempio a disposizione di tutte/i anche nella nostra area? Ecco come puoi contribuire:
 
 + Puoi diventare socio/a e partecipare ai nostri eventi
 + Puoi devolvere il tuo 5 per Mille dalla dichiarazione dei redditi (a te non costa nulla ma per noi vale tantissimo!), basta indicare il nostro codice fiscale nell'apposito campo del modello 730: **90017350225**   

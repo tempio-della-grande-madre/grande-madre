@@ -4,11 +4,11 @@ title: "Collaborazioni"
 date: "2018-01-22T22:01:06.037Z"
 ---
 
-+ **Ambito internazionale**
++ **AMBITO INTERNAZIONALE**
 
 ***The Glastonbury Goddess Temple***  
 È il primo Tempio dedicato a una divinità indigena a essere aperto in Europa e ufficialmente riconosciuto da un governo occidentale da circa 2000 anni a questa parte. Dal 2013 i matrimoni in esso celebrati hanno valore legale nel Regno Unito.  
-Il tempio offre una scuola ufficiale di formazione alla spiritualità della Dea con possibilità di dedicarsi come Sue sacerdotesse/sacerdoti. È organizzata secondo principi matristici e di partnership: non esiste una struttura piramidale, non esistono "somme sacerdotesse" o "capi", non ci sono dogmi a cui obbedire, le iniziazioni e dedicazioni non sono "investite dall'alto". L'organizzazione del tempio è circolare e le decisioni sono prese con il metodo del consenso.  
+Il Goddess Temple offre una scuola di formazione ufficialmente riconosciuta ed è organizzato secondo principi matristici e di partnership: non esiste una struttura piramidale, l'organizzazione è circolare e le decisioni sono prese con il metodo del consenso.  
 
 <a href="http://www.goddesstemple.co.uk" target="_blank_">http://www.goddesstemple.co.uk</a>  
 <a href="http://www.goddesstempleteachings.co.uk" target="_blank_">http://www.goddesstempleteachings.co.uk</a>
@@ -56,20 +56,7 @@ La lotta per i diritti delle donne è stata sempre al centro delle sue molteplic
 
 <br/>
 
-+ **Ambito nazionale**
-
-***Anna Bordin***  
-Sacerdotessa della Dea e di Avalon dedicata al Glastonbury Goddess Temple in Inghilterra, Co-Fondatrice del Cerchio Italiano di Avalon (di ispirazione al Glastonbury Goddess Temple. In Italia ci sono altre correnti ispirate a differenti percorsi avaloniani). Presidentessa in carica dell'Unione Comunità Neopagane ed ex presidentessa dell'Associazione di Promozione Sociale Argiope con sedi a Mestre (Ve), Milano, Torino, Roma. Laureata in Fisioterapia, lavora per il S.S.N. Vive a Mestre.  
-<a href="https://deeoltrelenebbie.wordpress.com/" target="_blank_">https://deeoltrelenebbie.wordpress.com/</a>
-
-***Sarah Perini***  
-Laureata in lingue e letterature straniere all'Università di Torino, con indirizzo storico culturale, ha partecipato a master e seminari di argomento antropologico, approfondendo gli studi di genere e il lavoro di Marija Gimbutas e Riane Eisler. Ha completato la sua formazione attraverso il contatto e l'apprendimento delle pratiche proposte da ricercatrici e maestre spirituali, si è dedicata come Sacerdotessa della Dea al Glastonbury Goddess Temple in Inghilterra. Co-Fondatrice del Cerchio Italiano di Avalon e dell'A.P.S. "Il Tempio della Dea". Collabora con l'Associazione Laima e con l'Associazione Argiope. Iscritta all'Istituto Internazionale di Psicosintesi Educativa di Torino. Ricercatrice indipendente, autrice, editor, mediatrice spirituale e counselor olistica. Da dieci anni lavora nel campo della spiritualità e nell'editoria di settore.  
-È autrice di:  
-"Simboli e Riti delle Donne Celtiche"  
-"Regine e Dee al Tempo di Artù" disponibile anche in lingua inglese.  
-"Chiedi alla Terra"  
-"L'Arte della Divinazione Geomantica e Il Simbolismo Magico del Caffè"  
-<a href="http://www.sarahperini.com" target="_blank_">http://www.sarahperini.com</a>
++ **AMBITO NAZIONALE**
 
 ***Luciana Percovich***  
 Attiva nel movimento delle donne dall'inizio degli anni Settanta (Movimento per una medicina delle donne, Libreria delle donne di via Dogana), ha tenuto numerosi corsi per la Libera Università delle Donne di Milano, diretto collane di saggistica e scritto su varie riviste occupandosi di medicina delle donne, scienza, antropologia, mitologia e spiritualità femminile. Attualmente cura la collana *Le Civette/Saggi* per l'Editrice Venexia. Nel 2007 esce "Oscure Madri Splendenti - Le origini del sacro e delle religioni" (Venexia, Roma) e nel 2009, sempre con lo stesso editore, "Colei che dà la vita, Colei che dà la forma".  
@@ -106,55 +93,44 @@ Pubblicazioni:
 "La gioia e il potere. Musica e danza in India" (Besa Editrice, Nardò 2008) scritto insieme a Paolo Pacciolla.  
 <a href="http://www.sutraartiperformative.com" target="_blank_">http://www.sutraartiperformative.com</a>
 
-<br/>
-
-<p>
- <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/collaborazioni-1.jpg">
-</p>
-
-Laura Ghianda, Claudia, Sarah Perini, Anna Bordin presso Culture Indigene di Pace, Torino 2013  
+***Nelle Marche:***  
+Giorgia Giacomini  
+Elena Chandani Alesiani  
+Giusy Shin Aportone.
 
 <br/>
 
-<p>
-  <img style='width:50%;' border="0" alt="testo sopra" src="/media/photos/collaborazioni-2.jpg">
-</p>
+<a href="https://tempiodelladea.org/" target="_blank_">***Tempio della Dea***</a> - Torino
+Associazione di promozione sociale e centro ricerche per la partnership.
 
-Anna Bordin, Laura Ghianda, Claudia all'edizione del 2014 della Glastonbury Goddess Conference  
+<a href="https://www.facebook.com/casadelladea/" target="_blank_">***Associazione Casa della Dea***</a> - province di Padova e Venezia
 
-<br/>
+<a href="https://www.tempiodelladeasardegna.com/?fbclid=IwAR3NsMLvJ-UAHulrimIPgSqZ-3kyN75GRHQ7UlCjQ25cfkqovhzz_enzSs8" target="_blank_">***Associazione Il Tempio della Dea - Sardegna***</a>
 
- ***Il Cerchio italiano di Avalon***  
- Composto dalle donne e dagli uomini che percorrono i sentieri di Avalon in Italia.
+<a href="http://www.tempiodellagrandedea.com" target="_blank_">***Associazione Tempio della Grande Dea***</a> - Roma
 
- ***Associazione "Il Tempio della Dea" e Cerchio della Ruota dell'Anno di Avalon e Diana – Torino, Marche, Brianza, Liguria, Sardegna***  
- Composto dalle donne e dagli uomini che percorrono i sentieri di Avalon in Italia e che stanno lavorando sulla costruzione della Ruota di Diana e delle Dee italiche e mediterranee.
+<a href="http://www.associazionelaima.it" target="_blank_"> ***Associazione Laima***</a>
 
- ***Associazione "Tempio della Grande Dea"***  
- Roma - <a href="http://www.tempiodellagrandedea.com" target="_blank_">http://www.tempiodellagrandedea.com</a>
+<a href="https://associazioneculturalevidyanam.org/" target="_blank_"> ***Associazione Culturale Vidyanam***</a> - Vicenza
 
- ***Associazione Laima***  
- <a href="http://www.associazionelaima.it" target="_blank_">http://www.associazionelaima.it</a>
-
- ***Associazione Agriope***  
- <a href="http://www.argiope.it" target="_blank_">http://www.argiope.it</a>
+<a href="https://www.facebook.com/Tendarossapd/" target="_blank_"> ***Associazione Tenda Rossa Padova***</a>
 
 <br/>
 
-+ **Ambito locale**
++ **AMBITO LOCALE**
 
-***Associazione L'Acqua che Balla***  
-<a href="http://www.acquacheballa.it" target="_blank_">http://www.acquacheballa.it</a>
+<a href="http://www.acquacheballa.it" target="_blank_">***Associazione L'Acqua che Balla***</a> - Trento
 
-***Associazione Tenda Rossa Trento***  
-<a href="https://www.facebook.com/tendarossa.atrento/" target="_blank_">https://www.facebook.com/tendarossa.atrento/</a>
+<a href="https://www.facebook.com/tendarossa.atrento/" target="_blank_">***Associazione Tenda Rossa Trento***</a>
+
+<a href="https://www.facebook.com/lunesuilaghi/" target="_blank_">***Associazione Lune sui Laghi***</a> - Levico Terme
+
+<a href="https://www.federcircoli.it/associazioni/slow-cinema/" target="_blank_">***Associazione Slow Cinema***</a> - Borgo Valsugana
 
 ***Alexander Bisan***  
 <a href="http://www.naturheilt.it/" target="_blank_">http://www.naturheilt.it/</a>  
 Facebook - <a href="https://www.facebook.com/Petersberger-Leger-Alm-251348994954740/" target="_blank_">https://www.facebook.com/Petersberger-Leger-Alm-251348994954740/</a>
 
-***Il cerchio di Anu - OBOD Grove***  
-<a href="http://www.ilcerchiodianu.com/guardiani-della-terra.html" target="_blank_">http://www.ilcerchiodianu.com/guardiani-della-terra.html</a>
+<a href="http://www.ilcerchiodianu.com/guardiani-della-terra.html" target="_blank_">***Il cerchio di Anu - OBOD Grove***</a>
 
-***Associazione Armonia***  
-<a href="http://www.armoniaericerca.it" target="_blank_">http://www.armoniaericerca.it</a>
+<a href="http://www.armoniaericerca.it" target="_blank_">***Associazione Armonia***</a>
