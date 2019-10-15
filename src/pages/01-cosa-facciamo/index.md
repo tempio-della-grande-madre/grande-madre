@@ -17,8 +17,8 @@ La nostra ricerca è iniziata quando ci siamo poste domande come queste:
 - basare le relazioni umane su competizione e, di nuovo, conflitto è l'unico modo possibile? Sarà questo il nostro destino?
 - la tendenza alla conquista, allo sfruttamento indiscriminato, all'egoismo, all'inquinamento, al menefreghismo... sono tutte qualità insite nel genere umano?
 - la gerarchia e il potere sull'altro è davvero il modo migliore per organizzarci?
-- davvero la spiritualità non è alla portata di tutti/e, deve essere mediata da una gerarchia e regolata da dogmi?
-- il concetto di dio come padre è universale o comunque il più evoluto?
+- ha senso concepire le diverse forme di spiritualità umana come una sorta di “evoluzionismo religioso” al pari del concetto di “evoluzionismo sociale”?
+- in quali modi le diverse culture hanno organizzato il fenomeno spirituale, sia nel passato che nel presente?
 - è la natura che vuole le donne relegate in ruoli di "serie B" tanto nell'agire cultura che nella religiosità?
 
 Certe che siamo tutti/e responsabili di una settemiliardesima fetta di mondo e con il desiderio di agire la nostra parte per migliorarlo, abbiamo iniziato a guardarci attorno: abbiamo incontrato tesi che ci parlano delle radici di un'*antica Europa* in cui i valori fondanti nelle relazioni, nel far cultura e quindi nella spiritualità non erano dappertutto quelli di dominio di un genere sull'altro, non erano dappertutto quelli che si fondano sulla guerra e sui conflitti, non erano dappertutto quelli che credono che la violenza sia *umana necessità e umano destino*.  
@@ -48,6 +48,8 @@ L'individualismo sfrenato portato dall'attuale cultura occidentale fa il resto.
 <br/>
 
 Come associazione di promozione sociale lavoriamo affinché la realtà di queste culture in tutte le loro manifestazioni siano conosciute, e cerchiamo di apprendere modelli e pratiche che siano utili anche nella nostra società per agire e interagire con altri presupposti. Crediamo che la felicità non sia solo questione di PIL.  
+
+Il *Tempio* è stato, secondo l’archeomitologa Marija Gimbutas, il primo luogo adibito alla conservazione delle derrate in surplus. Nelle culture egualitarie del passato, ma anche del presente, il surplus veniva redistribuito tra i membri della società nell’ottica dell’economia del dono così come teorizzata da Genevieve Vaughan. Non dappertutto, quindi, è diventato sinonimo di economia di mercato, competizione, divisione in classi sociali. Abbiamo esempi ancora esistenti di questa modalità: presso la società Yuchiteca, in Messico, il prestigio sociale è dato dalla capacità dei clan di redistribuire la ricchezza a tutti i membri attraverso sontuose feste.  
 
 *Grande Madre* è simbolo di un altro modo di agire cultura. È simbolo di società in equilibrio tra i membri e in armonia con la Terra in cui vivono.  
 *Grande Madre* è anche sinonimo di una sacralità che supera la dicotomia immanenza/trascendenza e ogni altra dicotomia. Una sacralità che può essere sperimentata da ogni essere umano e che comunica i suoi insegnamenti attraverso i cicli dell'universo, della natura, i cui riflessi sono riconosciuti anche nei cicli del corpo della donna.  
