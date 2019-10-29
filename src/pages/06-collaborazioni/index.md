@@ -100,8 +100,10 @@ Giusy Shin Aportone.
 
 <br/>
 
-<a href="https://tempiodelladea.org/" target="_blank_">***Tempio della Dea***</a> - Torino
-Associazione di promozione sociale e centro ricerche per la partnership.
+<a href="https://www.andreavernucci.com/" target="_blank_">***Andrea Vernucci***</a>
+
+<a href="https://tempiodelladea.org/" target="_blank_">***Tempio della Dea***</a> - Torino  
+Associazione di promozione sociale e centro ricerche per la partnership
 
 <a href="https://www.facebook.com/casadelladea/" target="_blank_">***Associazione Casa della Dea***</a> - province di Padova e Venezia
 
