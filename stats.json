@@ -33,8 +33,8 @@
       "path---cosa-facciamo-8045edcf487403b6a766.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1fbac61581ee365a40e5.js",
-      "component---src-layouts-index-js-1fbac61581ee365a40e5.js.map"
+      "component---src-layouts-index-js-30076b0a39f66bf4dde8.js",
+      "component---src-layouts-index-js-30076b0a39f66bf4dde8.js.map"
     ],
     "path---eventi": [
       "path---eventi-2d7214980c15cc562fb8.js",
@@ -48,10 +48,6 @@
       "component---src-templates-article-js-c599a343fc0aed94114d.js",
       "component---src-templates-article-js-c599a343fc0aed94114d.js.map"
     ],
-    "path---corsi-annuali": [
-      "path---corsi-annuali-57ed13bb69dc84719b24.js",
-      "path---corsi-annuali-57ed13bb69dc84719b24.js.map"
-    ],
     "path---index": [
       "path---index-db2747918c54390e1934.js",
       "path---index-db2747918c54390e1934.js.map"
@@ -64,14 +60,10 @@
       "commons-899d9e1ac5c29c6f33c8.js",
       "commons-899d9e1ac5c29c6f33c8.js.map"
     ],
-    "path---corso-ruota-dell-anno": [
-      "path---corso-ruota-dell-anno-f1711d4a48b52ccb2ac4.js",
-      "path---corso-ruota-dell-anno-f1711d4a48b52ccb2ac4.js.map"
-    ],
     "app": [
-      "app-63cb90b17ec5846eaf71.js",
+      "app-7f5dbab27f299541b832.js",
       "build-js-styles.css",
-      "app-63cb90b17ec5846eaf71.js.map",
+      "app-7f5dbab27f299541b832.js.map",
       "build-js-styles.css.map"
     ],
     "path---come-avere-la-fiamma": [
@@ -89,10 +81,6 @@
     "path---donazioni": [
       "path---donazioni-d58cbf0edc0020d7c0f3.js",
       "path---donazioni-d58cbf0edc0020d7c0f3.js.map"
-    ],
-    "path---corso-seconda-spirale": [
-      "path---corso-seconda-spirale-25295a2da13b7689d7a7.js",
-      "path---corso-seconda-spirale-25295a2da13b7689d7a7.js.map"
     ],
     "path---spiritualita-e-denaro": [
       "path---spiritualita-e-denaro-6d54124daecb420f5f8f.js",
